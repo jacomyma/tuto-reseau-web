@@ -1,0 +1,52 @@
+
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<title>Test</title>
+
+		<!-- Charger d3.js -->
+		<script type="text/javascript" src="assets/d3.min.js"></script>
+
+	</head>
+	<body>
+		<script type="text/javascript">
+			
+			// Vous référer au tutorial d3 en francais :
+			// http://kaisersly.github.io/scottmurray-d3-fr/
+
+			// 2. Lier les données
+
+			window.animaux = [
+				"appartenant à l'Empereur",
+				"embaumés",
+				"apprivoisés",
+				"cochons de lait",
+				"sirènes",
+				"fabuleux",
+				"chinchards",
+				"chiens en liberté",
+				"inclus dans la présente classification",
+				"qui s'agitent comme des fous",
+				"innombrables",
+				"dessinés avec un pinceau très fin en poils de chameau",
+				"qui viennent de casser la cruche",
+				"qui de loin semblent des mouches",
+				"autres..."
+			];
+
+			d3.select("body")
+				.append("h3")
+				.text("Les animaux se décomposent en :");
+
+			d3.select("body").selectAll("p")
+		    .data(animaux)
+		    .enter()
+		    .append("p")
+		    .text(function(d){
+		    	return "- "+d;
+		    });
+
+		</script>
+	</body>
+</html>

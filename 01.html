@@ -1,0 +1,32 @@
+
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<title>Test</title>
+
+		<!-- Charger d3.js -->
+		<script type="text/javascript" src="assets/d3.min.js"></script>
+
+	</head>
+	<body>
+		<script type="text/javascript">
+			
+			// Vous référer au tutorial d3 en francais :
+			// http://kaisersly.github.io/scottmurray-d3-fr/
+
+			// 1. Enchaîner les méthodes
+
+			var body = d3.select("body");
+			var p = body.append("p");
+			p.text("One for the money");
+
+			d3.select("body").append("p").text("Two for the show");
+
+			d3.select("body")
+			    .append("p")
+			    .text("Three to get ready");
+
+		</script>
+	</body>
+</html>

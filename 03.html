@@ -1,0 +1,42 @@
+
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<title>Test</title>
+
+		<!-- Charger d3.js -->
+		<script type="text/javascript" src="assets/d3.min.js"></script>
+
+	</head>
+	<body>
+		<script type="text/javascript">
+			
+			// Vous référer au tutorial d3 en francais :
+			// http://kaisersly.github.io/scottmurray-d3-fr/
+
+			// 3. Charger des données
+
+			data = d3.csv("data/lsd.csv", function(row) {
+				if (row["Score en calcul"] > 50) {
+					row.bon_score = true
+				}
+				return row;
+			})
+			.then(function(data) {
+				console.log("Données chargées", data);
+
+				d3.select("body").selectAll("p")
+			    .data(data)
+			    .enter()
+			    .append("p")
+			    .text(function(d){
+			    	var mot = d.bon_score ? "bonne" : "NULLE";
+			    	return "Si tu prends " + d["Dose de LSD"] + " doses, tu seras " + mot + " en maths";
+			    });
+
+			})
+
+		</script>
+	</body>
+</html>

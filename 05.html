@@ -1,0 +1,98 @@
+
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<title>Test</title>
+
+		<!-- Charger d3.js -->
+		<script type="text/javascript" src="assets/d3.min.js"></script>
+
+	</head>
+	<body>
+		<script type="text/javascript">
+			
+			// Vous référer au tutorial d3 en francais :
+			// http://kaisersly.github.io/scottmurray-d3-fr/
+
+			// Sur les réseaux, cet exemple en anglais :
+			// https://beta.observablehq.com/@mbostock/d3-force-directed-graph
+
+			// 5. Charger et dessiner un réseau
+
+			data = d3.csv("data/jazz_nodes.csv", function(n){
+				n.id = n.Id
+				delete n.Id
+				return n
+			}).then(function(nodes) {
+
+				data = d3.csv("data/jazz_edges.csv", function(e){
+					e.source = e.Source
+					e.target = e.Target
+					delete e.Source
+					delete e.Target
+					return e
+				}).then(function(edges) {
+
+					var limit = 1000
+
+				  nodes = nodes
+				  	.filter(function(d) {
+				  		return +d.id < limit
+				  	})
+				  	.map(function(d) { return Object.create(d) });
+					edges = edges
+				  	.filter(function(d) {
+				  		return +d.source < limit && +d.target < limit
+				  	})
+						.map(function(d) { return Object.create(d) });
+				  var simulation = forceSimulation(nodes, edges).on("tick", ticked);
+
+				  var width = 300
+				  var height = 300
+				  var svg = d3.select("body")
+				  	.append("svg")
+      			.attr("viewBox", [-width / 2, -height / 2, width, height]);
+
+      		var edge = svg.append("g")
+				      .attr("stroke", "#999")
+				      .attr("stroke-opacity", 0.6)
+				    .selectAll("line")
+				    .data(edges)
+				    .enter().append("line")
+				      .attr("stroke-width", 1);
+
+				  var node = svg.append("g")
+				      .attr("stroke", "#fff")
+				      .attr("stroke-width", 1.5)
+				    .selectAll("circle")
+				    .data(nodes)
+				    .enter().append("circle")
+				      .attr("r", 3)
+				      .attr("fill", "#999");
+
+				  function ticked() {
+				    edge
+				        .attr("x1", d => d.source.x)
+				        .attr("y1", d => d.source.y)
+				        .attr("x2", d => d.target.x)
+				        .attr("y2", d => d.target.y);
+				    
+				    node
+				        .attr("cx", d => d.x)
+				        .attr("cy", d => d.y);
+				 	}
+
+				});
+			});
+
+			function forceSimulation(nodes, edges) {
+			  return d3.forceSimulation(nodes)
+			      .force("link", d3.forceLink(edges).id(d => d.id))
+			      .force("charge", d3.forceManyBody().strength(-5))
+			      .force("center", d3.forceCenter());
+			}
+
+		</script>
+	</body>
+</html>

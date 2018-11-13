@@ -1,0 +1,47 @@
+
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<title>Test</title>
+
+		<!-- Charger d3.js -->
+		<script type="text/javascript" src="assets/d3.min.js"></script>
+
+	</head>
+	<body>
+		<script type="text/javascript">
+			
+			// Vous référer au tutorial d3 en francais :
+			// http://kaisersly.github.io/scottmurray-d3-fr/
+
+			// 4. Faire un diagramme en HTML
+			// (d3 est un contrôleur et une boîte à outils d'utilitaires)
+
+			data = d3.csv("data/lsd.csv")
+			.then(function(data) {
+				d3.select("body").selectAll("div.bar")
+			    .data(data)
+			    .enter()
+			    .append("div")
+			    .attr("class", "bar")
+			    .style("background-color", "#666666")
+			    .style("color", "#FFFFFF")
+			    .style("font-family", "sans-serif")
+			    .style("font-size", "10px")
+			    .style("text-align", "end")
+			    .style("margin-bottom", "3px")
+			    .style("padding", "3px")
+			    .style("height", "16px")
+			    .style("width", function(d) {
+			        var barWidth = d["Score en calcul"] * 5;
+			        return barWidth + "px";
+			    })
+			    .text(function(d){
+			    	return d["Score en calcul"] + " / 100";
+			    });
+			})
+
+		</script>
+	</body>
+</html>

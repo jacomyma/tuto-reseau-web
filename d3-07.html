@@ -51,7 +51,7 @@
       .enter()
       .append("circle")
       .attr("r", d => d.radius = size_node(d.count))
-      .attr("fill", "#999") /// On va prévoir une interaction pour quand l'utilisateur passe son curseur au dessus des noeuds:
+      .attr("fill", "#999") // On va prévoir une interaction pour quand l'utilisateur passe son curseur au dessus des noeuds:
       .on('mouseover', (d) => {
         d3.select(`#txt_${d.id}`).style('display', null);
       })
@@ -113,7 +113,7 @@
       d.fx = null;
       d.fy = null;
     }
-    //
+
     // Fonction utilisée pour rendre les symboles proportionnels:
     function PropSizer(fixed_value, fixed_size) {
       this.fixed_value = fixed_value;
@@ -121,15 +121,30 @@
       return (val) => Math.sqrt(val * this.smax / this.fixed_value) / Math.PI;
     }
 
+    // Paramètres de layout basé sur la force
+    // On peut jouer avec les valeurs 'strenght' de chaque fonction
+    // (mais attention au risque de plantage du naviguateur si certaines de ces
+    // valeurs ne sont pas raisonnables ou si le nombre de noeuds est trop important)
     function forceSimulation(nodes, edges) {
       return d3.forceSimulation(nodes)
         .force("link", d3.forceLink(edges).id(d => d.id))
         .force("charge", d3.forceManyBody().strength(-15))
         .force("collide", d3.forceCollide().radius(d => d.radius * 1.1))
-        // .force("center", d3.forceCenter())
         .force("x", d3.forceX(width / 2))
         .force("y", d3.forceY(height / 2));
     }
+    // On pourrait aussi essayer une disposition radiale proposée par d3-force
+    // Pour ça, décommenter le bloc de code suivant et commenter la fonction forceSimulation
+    // située juste au dessus puis recharger la page.
+
+    // function forceSimulation(nodes, edges) {
+    //   return d3.forceSimulation(nodes)
+    //     .force("link", d3.forceLink(edges).id(d => d.id).strength(0))
+    //     .force("charge", d3.forceManyBody().strength(-15))
+    //     .force("collide", d3.forceCollide().radius(d => d.radius * 1.1))
+    //     .force("radial", d3.forceRadial(200, width /2, height/2).strength(0.95));
+    // }
+
   });
 
   </script>

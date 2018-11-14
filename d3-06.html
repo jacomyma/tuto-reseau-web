@@ -83,9 +83,9 @@
           d3.select(`#txt_${d.id}`).style('display', 'none');
         }) // On va également ajouter la possibilité de déplacer les noeuds :
         .call(d3.drag()
-        .on("start", dragstarted)
-        .on("drag", dragged)
-        .on("end", dragended));
+          .on("start", dragstarted)
+          .on("drag", dragged)
+          .on("end", dragended));
 
       // On ajoute un groupe qui va contenir les différents labels
       // (cachés par défaut)

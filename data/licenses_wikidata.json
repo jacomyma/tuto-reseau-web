@@ -1,0 +1,5321 @@
+{
+    "links": [
+        {
+            "type": "Instance of",
+            "source": 1023365,
+            "target": 7096068
+        },
+        {
+            "type": "Instance of",
+            "source": 10289473,
+            "target": 196294
+        },
+        {
+            "type": "Subclass of",
+            "source": 1037852,
+            "target": 19652
+        },
+        {
+            "type": "Instance of",
+            "source": 1050635,
+            "target": 3943414
+        },
+        {
+            "type": "Instance of",
+            "source": 10513445,
+            "target": 5975031
+        },
+        {
+            "type": "Follows",
+            "source": 10513445,
+            "target": 10513450
+        },
+        {
+            "type": "Instance of",
+            "source": 10513445,
+            "target": 7603
+        },
+        {
+            "type": "Instance of",
+            "source": 10513450,
+            "target": 5975031
+        },
+        {
+            "type": "Follows",
+            "source": 10513450,
+            "target": 10513452
+        },
+        {
+            "type": "Instance of",
+            "source": 10513450,
+            "target": 7603
+        },
+        {
+            "type": "Instance of",
+            "source": 10513452,
+            "target": 5975031
+        },
+        {
+            "type": "Instance of",
+            "source": 10513452,
+            "target": 7603
+        },
+        {
+            "type": "Instance of",
+            "source": 1052189,
+            "target": 3943414
+        },
+        {
+            "type": "Instance of",
+            "source": 1052189,
+            "target": 1156659
+        },
+        {
+            "type": "Instance of",
+            "source": 10909819,
+            "target": 79719
+        },
+        {
+            "type": "Instance of",
+            "source": 1100998,
+            "target": 207621
+        },
+        {
+            "type": "Instance of",
+            "source": 1100998,
+            "target": 79719
+        },
+        {
+            "type": "Instance of",
+            "source": 1107202,
+            "target": 178285
+        },
+        {
+            "type": "Based on",
+            "source": 1116195,
+            "target": 308915
+        },
+        {
+            "type": "Instance of",
+            "source": 1116195,
+            "target": 1156659
+        },
+        {
+            "type": "Instance of",
+            "source": 1116195,
+            "target": 207621
+        },
+        {
+            "type": "Instance of",
+            "source": 11190590,
+            "target": 178285
+        },
+        {
+            "type": "Instance of",
+            "source": 11298685,
+            "target": 178285
+        },
+        {
+            "type": "Based on",
+            "source": 1131681,
+            "target": 7603
+        },
+        {
+            "type": "Subclass of",
+            "source": 1131681,
+            "target": 7603
+        },
+        {
+            "type": "Instance of",
+            "source": 1131681,
+            "target": 7603
+        },
+        {
+            "type": "Subclass of",
+            "source": 1131681,
+            "target": 28130012
+        },
+        {
+            "type": "Instance of",
+            "source": 11324228,
+            "target": 178285
+        },
+        {
+            "type": "Subclass of",
+            "source": 1139274,
+            "target": 196294
+        },
+        {
+            "type": "Subclass of",
+            "source": 1139274,
+            "target": 7257715
+        },
+        {
+            "type": "Instance of",
+            "source": 1149006,
+            "target": 3943414
+        },
+        {
+            "type": "Instance of",
+            "source": 11498505,
+            "target": 178285
+        },
+        {
+            "type": "Instance of",
+            "source": 1150694,
+            "target": 178285
+        },
+        {
+            "type": "Instance of",
+            "source": 1150837,
+            "target": 196294
+        },
+        {
+            "type": "Subclass of",
+            "source": 1153767,
+            "target": 25036597
+        },
+        {
+            "type": "Instance of",
+            "source": 1156659,
+            "target": 207621
+        },
+        {
+            "type": "Instance of",
+            "source": 1224853,
+            "target": 51754273
+        },
+        {
+            "type": "Instance of",
+            "source": 1224853,
+            "target": 1139274
+        },
+        {
+            "type": "Instance of",
+            "source": 12470055,
+            "target": 205647
+        },
+        {
+            "type": "Subclass of",
+            "source": 1254596,
+            "target": 25036597
+        },
+        {
+            "type": "Instance of",
+            "source": 1259297,
+            "target": 178285
+        },
+        {
+            "type": "Instance of",
+            "source": 1281977,
+            "target": 1156659
+        },
+        {
+            "type": "Instance of",
+            "source": 1281977,
+            "target": 3943414
+        },
+        {
+            "type": "Based on",
+            "source": 13257633,
+            "target": 308915
+        },
+        {
+            "type": "Subclass of",
+            "source": 13257633,
+            "target": 308915
+        },
+        {
+            "type": "Instance of",
+            "source": 13257633,
+            "target": 3943414
+        },
+        {
+            "type": "Instance of",
+            "source": 1376919,
+            "target": 1156659
+        },
+        {
+            "type": "Instance of",
+            "source": 1376919,
+            "target": 196294
+        },
+        {
+            "type": "Subclass of",
+            "source": 13785927,
+            "target": 616526
+        },
+        {
+            "type": "Instance of",
+            "source": 13785927,
+            "target": 207621
+        },
+        {
+            "type": "Follows",
+            "source": 13785927,
+            "target": 17817999
+        },
+        {
+            "type": "Instance of",
+            "source": 1396282,
+            "target": 207621
+        },
+        {
+            "type": "Instance of",
+            "source": 1396282,
+            "target": 196294
+        },
+        {
+            "type": "Instance of",
+            "source": 1412537,
+            "target": 79719
+        },
+        {
+            "type": "Subclass of",
+            "source": 1437937,
+            "target": 3943414
+        },
+        {
+            "type": "Subclass of",
+            "source": 1444631,
+            "target": 178285
+        },
+        {
+            "type": "Instance of",
+            "source": 1444631,
+            "target": 207621
+        },
+        {
+            "type": "Instance of",
+            "source": 1448814,
+            "target": 178285
+        },
+        {
+            "type": "Instance of",
+            "source": 1453399,
+            "target": 178285
+        },
+        {
+            "type": "Instance of",
+            "source": 14624823,
+            "target": 713244
+        },
+        {
+            "type": "Instance of",
+            "source": 14624826,
+            "target": 3943414
+        },
+        {
+            "type": "Follows",
+            "source": 14624826,
+            "target": 14624823
+        },
+        {
+            "type": "Instance of",
+            "source": 14624826,
+            "target": 1156659
+        },
+        {
+            "type": "Instance of",
+            "source": 14624826,
+            "target": 713244
+        },
+        {
+            "type": "Subclass of",
+            "source": 1480858,
+            "target": 205647
+        },
+        {
+            "type": "Instance of",
+            "source": 1486114,
+            "target": 207621
+        },
+        {
+            "type": "Instance of",
+            "source": 1486447,
+            "target": 7603
+        },
+        {
+            "type": "Instance of",
+            "source": 14946043,
+            "target": 284742
+        },
+        {
+            "type": "Follows",
+            "source": 14946043,
+            "target": 19113751
+        },
+        {
+            "type": "Instance of",
+            "source": 14946043,
+            "target": 196294
+        },
+        {
+            "type": "Instance of",
+            "source": 14947546,
+            "target": 284742
+        },
+        {
+            "type": "Follows",
+            "source": 14947546,
+            "target": 18810333
+        },
+        {
+            "type": "Instance of",
+            "source": 14947546,
+            "target": 196294
+        },
+        {
+            "type": "Instance of",
+            "source": 1500241,
+            "target": 178285
+        },
+        {
+            "type": "Instance of",
+            "source": 152332,
+            "target": 7257715
+        },
+        {
+            "type": "Instance of",
+            "source": 152481,
+            "target": 25047642
+        },
+        {
+            "type": "Instance of",
+            "source": 15410639,
+            "target": 79719
+        },
+        {
+            "type": "Instance of",
+            "source": 15477153,
+            "target": 3943414
+        },
+        {
+            "type": "Instance of",
+            "source": 15643954,
+            "target": 1139274
+        },
+        {
+            "type": "Follows",
+            "source": 15643954,
+            "target": 19068212
+        },
+        {
+            "type": "Instance of",
+            "source": 15643954,
+            "target": 284742
+        },
+        {
+            "type": "Subclass of",
+            "source": 15875459,
+            "target": 205647
+        },
+        {
+            "type": "Instance of",
+            "source": 15914252,
+            "target": 284742
+        },
+        {
+            "type": "Instance of",
+            "source": 16566743,
+            "target": 51754273
+        },
+        {
+            "type": "Instance of",
+            "source": 16566743,
+            "target": 196294
+        },
+        {
+            "type": "Subclass of",
+            "source": 16911506,
+            "target": 79719
+        },
+        {
+            "type": "Instance of",
+            "source": 16948289,
+            "target": 207621
+        },
+        {
+            "type": "Instance of",
+            "source": 17011832,
+            "target": 1156659
+        },
+        {
+            "type": "Instance of",
+            "source": 17011832,
+            "target": 207621
+        },
+        {
+            "type": "Instance of",
+            "source": 17016921,
+            "target": 7257715
+        },
+        {
+            "type": "Instance of",
+            "source": 17016921,
+            "target": 196294
+        },
+        {
+            "type": "Instance of",
+            "source": 17070027,
+            "target": 196294
+        },
+        {
+            "type": "Instance of",
+            "source": 17087127,
+            "target": 1153767
+        },
+        {
+            "type": "Subclass of",
+            "source": 17125478,
+            "target": 25036597
+        },
+        {
+            "type": "Subclass of",
+            "source": 17143005,
+            "target": 25036597
+        },
+        {
+            "type": "Instance of",
+            "source": 17229293,
+            "target": 207621
+        },
+        {
+            "type": "Instance of",
+            "source": 1752744,
+            "target": 196294
+        },
+        {
+            "type": "Instance of",
+            "source": 1772828,
+            "target": 3943414
+        },
+        {
+            "type": "Instance of",
+            "source": 17817999,
+            "target": 616526
+        },
+        {
+            "type": "Follows",
+            "source": 17817999,
+            "target": 26897902
+        },
+        {
+            "type": "Subclass of",
+            "source": 178285,
+            "target": 79719
+        },
+        {
+            "type": "Instance of",
+            "source": 1798391,
+            "target": 178285
+        },
+        {
+            "type": "Instance of",
+            "source": 18195572,
+            "target": 284742
+        },
+        {
+            "type": "Follows",
+            "source": 18195572,
+            "target": 18199175
+        },
+        {
+            "type": "Instance of",
+            "source": 18195572,
+            "target": 196294
+        },
+        {
+            "type": "Instance of",
+            "source": 18199165,
+            "target": 6905942
+        },
+        {
+            "type": "Follows",
+            "source": 18199165,
+            "target": 14946043
+        },
+        {
+            "type": "Follows",
+            "source": 18199165,
+            "target": 18195572
+        },
+        {
+            "type": "Instance of",
+            "source": 18199165,
+            "target": 196294
+        },
+        {
+            "type": "Instance of",
+            "source": 18199175,
+            "target": 284742
+        },
+        {
+            "type": "Instance of",
+            "source": 18199175,
+            "target": 196294
+        },
+        {
+            "type": "Subclass of",
+            "source": 18357595,
+            "target": 1254596
+        },
+        {
+            "type": "Instance of",
+            "source": 18378690,
+            "target": 1153767
+        },
+        {
+            "type": "Instance of",
+            "source": 18491847,
+            "target": 191307
+        },
+        {
+            "type": "Instance of",
+            "source": 18517294,
+            "target": 191307
+        },
+        {
+            "type": "Instance of",
+            "source": 18526198,
+            "target": 334661
+        },
+        {
+            "type": "Instance of",
+            "source": 18534390,
+            "target": 3943414
+        },
+        {
+            "type": "Follows",
+            "source": 18534390,
+            "target": 23035974
+        },
+        {
+            "type": "Instance of",
+            "source": 18534393,
+            "target": 3943414
+        },
+        {
+            "type": "Follows",
+            "source": 18534393,
+            "target": 18534390
+        },
+        {
+            "type": "Instance of",
+            "source": 18563589,
+            "target": 1437937
+        },
+        {
+            "type": "Instance of",
+            "source": 18632926,
+            "target": 7257715
+        },
+        {
+            "type": "Instance of",
+            "source": 18632926,
+            "target": 196294
+        },
+        {
+            "type": "Instance of",
+            "source": 18810143,
+            "target": 284742
+        },
+        {
+            "type": "Instance of",
+            "source": 18810143,
+            "target": 196294
+        },
+        {
+            "type": "Instance of",
+            "source": 18810160,
+            "target": 284742
+        },
+        {
+            "type": "Follows",
+            "source": 18810160,
+            "target": 18810338
+        },
+        {
+            "type": "Instance of",
+            "source": 18810331,
+            "target": 284742
+        },
+        {
+            "type": "Follows",
+            "source": 18810331,
+            "target": 19113746
+        },
+        {
+            "type": "Instance of",
+            "source": 18810333,
+            "target": 284742
+        },
+        {
+            "type": "Follows",
+            "source": 18810333,
+            "target": 19125117
+        },
+        {
+            "type": "Instance of",
+            "source": 18810333,
+            "target": 196294
+        },
+        {
+            "type": "Instance of",
+            "source": 18810338,
+            "target": 284742
+        },
+        {
+            "type": "Follows",
+            "source": 18810338,
+            "target": 35254645
+        },
+        {
+            "type": "Based on",
+            "source": 18810341,
+            "target": 14946043
+        },
+        {
+            "type": "Instance of",
+            "source": 18810341,
+            "target": 284742
+        },
+        {
+            "type": "Instance of",
+            "source": 18810341,
+            "target": 196294
+        },
+        {
+            "type": "Instance of",
+            "source": 18913176,
+            "target": 178285
+        },
+        {
+            "type": "Instance of",
+            "source": 19019246,
+            "target": 19652
+        },
+        {
+            "type": "Instance of",
+            "source": 1905513,
+            "target": 1139274
+        },
+        {
+            "type": "Instance of",
+            "source": 19068204,
+            "target": 284742
+        },
+        {
+            "type": "Follows",
+            "source": 19068204,
+            "target": 47008927
+        },
+        {
+            "type": "Instance of",
+            "source": 19068212,
+            "target": 1139274
+        },
+        {
+            "type": "Follows",
+            "source": 19068212,
+            "target": 28050835
+        },
+        {
+            "type": "Instance of",
+            "source": 19068212,
+            "target": 284742
+        },
+        {
+            "type": "Instance of",
+            "source": 19068220,
+            "target": 284742
+        },
+        {
+            "type": "Follows",
+            "source": 19068220,
+            "target": 47001652
+        },
+        {
+            "type": "Instance of",
+            "source": 19068220,
+            "target": 196294
+        },
+        {
+            "type": "Instance of",
+            "source": 19113746,
+            "target": 284742
+        },
+        {
+            "type": "Follows",
+            "source": 19113746,
+            "target": 44128984
+        },
+        {
+            "type": "Instance of",
+            "source": 19113751,
+            "target": 284742
+        },
+        {
+            "type": "Follows",
+            "source": 19113751,
+            "target": 19068220
+        },
+        {
+            "type": "Instance of",
+            "source": 19113751,
+            "target": 196294
+        },
+        {
+            "type": "Instance of",
+            "source": 19125045,
+            "target": 284742
+        },
+        {
+            "type": "Follows",
+            "source": 19125045,
+            "target": 19068204
+        },
+        {
+            "type": "Instance of",
+            "source": 19125117,
+            "target": 284742
+        },
+        {
+            "type": "Follows",
+            "source": 19125117,
+            "target": 30942811
+        },
+        {
+            "type": "Instance of",
+            "source": 19125117,
+            "target": 196294
+        },
+        {
+            "type": "Subclass of",
+            "source": 191307,
+            "target": 1156659
+        },
+        {
+            "type": "Instance of",
+            "source": 191307,
+            "target": 1437937
+        },
+        {
+            "type": "Subclass of",
+            "source": 191307,
+            "target": 3943414
+        },
+        {
+            "type": "Based on",
+            "source": 192897,
+            "target": 7603
+        },
+        {
+            "type": "Instance of",
+            "source": 192897,
+            "target": 3943414
+        },
+        {
+            "type": "Instance of",
+            "source": 192897,
+            "target": 1156659
+        },
+        {
+            "type": "Subclass of",
+            "source": 19292556,
+            "target": 191307
+        },
+        {
+            "type": "Instance of",
+            "source": 19292556,
+            "target": 3943414
+        },
+        {
+            "type": "Subclass of",
+            "source": 193345,
+            "target": 178285
+        },
+        {
+            "type": "Instance of",
+            "source": 19392936,
+            "target": 79719
+        },
+        {
+            "type": "Instance of",
+            "source": 1951343,
+            "target": 3943414
+        },
+        {
+            "type": "Subclass of",
+            "source": 196294,
+            "target": 79719
+        },
+        {
+            "type": "Subclass of",
+            "source": 19681540,
+            "target": 79719
+        },
+        {
+            "type": "Subclass of",
+            "source": 1994744,
+            "target": 25036597
+        },
+        {
+            "type": "Instance of",
+            "source": 20007257,
+            "target": 284742
+        },
+        {
+            "type": "Follows",
+            "source": 20007257,
+            "target": 14947546
+        },
+        {
+            "type": "Instance of",
+            "source": 20007257,
+            "target": 196294
+        },
+        {
+            "type": "Based on",
+            "source": 2033808,
+            "target": 18517294
+        },
+        {
+            "type": "Instance of",
+            "source": 2033808,
+            "target": 1437937
+        },
+        {
+            "type": "Subclass of",
+            "source": 205647,
+            "target": 79719
+        },
+        {
+            "type": "Instance of",
+            "source": 207243,
+            "target": 1437937
+        },
+        {
+            "type": "Subclass of",
+            "source": 207621,
+            "target": 79719
+        },
+        {
+            "type": "Instance of",
+            "source": 20764732,
+            "target": 3943414
+        },
+        {
+            "type": "Instance of",
+            "source": 20972134,
+            "target": 207621
+        },
+        {
+            "type": "Subclass of",
+            "source": 21015577,
+            "target": 1254596
+        },
+        {
+            "type": "Instance of",
+            "source": 21034421,
+            "target": 1254596
+        },
+        {
+            "type": "Subclass of",
+            "source": 21193071,
+            "target": 1480858
+        },
+        {
+            "type": "Subclass of",
+            "source": 2144323,
+            "target": 79719
+        },
+        {
+            "type": "Instance of",
+            "source": 21503790,
+            "target": 191307
+        },
+        {
+            "type": "Instance of",
+            "source": 21659044,
+            "target": 7257715
+        },
+        {
+            "type": "Instance of",
+            "source": 22682017,
+            "target": 207621
+        },
+        {
+            "type": "Instance of",
+            "source": 2277058,
+            "target": 178285
+        },
+        {
+            "type": "Instance of",
+            "source": 2294050,
+            "target": 3943414
+        },
+        {
+            "type": "Instance of",
+            "source": 23006354,
+            "target": 284742
+        },
+        {
+            "type": "Instance of",
+            "source": 23035974,
+            "target": 3943414
+        },
+        {
+            "type": "Instance of",
+            "source": 2306611,
+            "target": 207621
+        },
+        {
+            "type": "Instance of",
+            "source": 2336497,
+            "target": 178285
+        },
+        {
+            "type": "Instance of",
+            "source": 2352806,
+            "target": 1139274
+        },
+        {
+            "type": "Instance of",
+            "source": 2353141,
+            "target": 1437937
+        },
+        {
+            "type": "Instance of",
+            "source": 23927060,
+            "target": 1254596
+        },
+        {
+            "type": "Instance of",
+            "source": 24075562,
+            "target": 1254596
+        },
+        {
+            "type": "Instance of",
+            "source": 24082749,
+            "target": 284742
+        },
+        {
+            "type": "Follows",
+            "source": 24082749,
+            "target": 19125045
+        },
+        {
+            "type": "Instance of",
+            "source": 2411630,
+            "target": 178285
+        },
+        {
+            "type": "Instance of",
+            "source": 24273512,
+            "target": 7257715
+        },
+        {
+            "type": "Instance of",
+            "source": 24331618,
+            "target": 284742
+        },
+        {
+            "type": "Instance of",
+            "source": 24331618,
+            "target": 196294
+        },
+        {
+            "type": "Subclass of",
+            "source": 24707952,
+            "target": 79719
+        },
+        {
+            "type": "Instance of",
+            "source": 2471941,
+            "target": 196294
+        },
+        {
+            "type": "Instance of",
+            "source": 2477807,
+            "target": 3943414
+        },
+        {
+            "type": "Instance of",
+            "source": 2477807,
+            "target": 1156659
+        },
+        {
+            "type": "Subclass of",
+            "source": 2481177,
+            "target": 205647
+        },
+        {
+            "type": "Instance of",
+            "source": 2495855,
+            "target": 1437937
+        },
+        {
+            "type": "Based on",
+            "source": 2495855,
+            "target": 18491847
+        },
+        {
+            "type": "Subclass of",
+            "source": 25036597,
+            "target": 79719
+        },
+        {
+            "type": "Subclass of",
+            "source": 25047642,
+            "target": 19652
+        },
+        {
+            "type": "Subclass of",
+            "source": 25047642,
+            "target": 196294
+        },
+        {
+            "type": "Subclass of",
+            "source": 25212654,
+            "target": 25036597
+        },
+        {
+            "type": "Instance of",
+            "source": 25273268,
+            "target": 3943414
+        },
+        {
+            "type": "Instance of",
+            "source": 25312823,
+            "target": 1254596
+        },
+        {
+            "type": "Subclass of",
+            "source": 25325251,
+            "target": 25036597
+        },
+        {
+            "type": "Instance of",
+            "source": 25345942,
+            "target": 1254596
+        },
+        {
+            "type": "Subclass of",
+            "source": 25390073,
+            "target": 25036597
+        },
+        {
+            "type": "Instance of",
+            "source": 25428413,
+            "target": 1437937
+        },
+        {
+            "type": "Follows",
+            "source": 25428413,
+            "target": 26737735
+        },
+        {
+            "type": "Instance of",
+            "source": 2598628,
+            "target": 178285
+        },
+        {
+            "type": "Instance of",
+            "source": 2600299,
+            "target": 3943414
+        },
+        {
+            "type": "Instance of",
+            "source": 2608399,
+            "target": 178285
+        },
+        {
+            "type": "Instance of",
+            "source": 26116436,
+            "target": 284742
+        },
+        {
+            "type": "Instance of",
+            "source": 26116436,
+            "target": 196294
+        },
+        {
+            "type": "Instance of",
+            "source": 26245522,
+            "target": 3943414
+        },
+        {
+            "type": "Instance of",
+            "source": 26245522,
+            "target": 1156659
+        },
+        {
+            "type": "Instance of",
+            "source": 26259495,
+            "target": 284742
+        },
+        {
+            "type": "Instance of",
+            "source": 26259495,
+            "target": 196294
+        },
+        {
+            "type": "Instance of",
+            "source": 26701938,
+            "target": 3943414
+        },
+        {
+            "type": "Instance of",
+            "source": 26737735,
+            "target": 1437937
+        },
+        {
+            "type": "Follows",
+            "source": 26737735,
+            "target": 26737738
+        },
+        {
+            "type": "Instance of",
+            "source": 26737738,
+            "target": 207621
+        },
+        {
+            "type": "Instance of",
+            "source": 26805816,
+            "target": 196294
+        },
+        {
+            "type": "Instance of",
+            "source": 26805818,
+            "target": 196294
+        },
+        {
+            "type": "Follows",
+            "source": 26805818,
+            "target": 26805816
+        },
+        {
+            "type": "Instance of",
+            "source": 26897902,
+            "target": 616526
+        },
+        {
+            "type": "Instance of",
+            "source": 26904555,
+            "target": 196294
+        },
+        {
+            "type": "Instance of",
+            "source": 26913038,
+            "target": 284742
+        },
+        {
+            "type": "Instance of",
+            "source": 26913038,
+            "target": 196294
+        },
+        {
+            "type": "Instance of",
+            "source": 26921685,
+            "target": 22169
+        },
+        {
+            "type": "Instance of",
+            "source": 26921686,
+            "target": 22169
+        },
+        {
+            "type": "Follows",
+            "source": 26921686,
+            "target": 26921685
+        },
+        {
+            "type": "Instance of",
+            "source": 26921691,
+            "target": 22169
+        },
+        {
+            "type": "Follows",
+            "source": 26921691,
+            "target": 26921686
+        },
+        {
+            "type": "Instance of",
+            "source": 26996804,
+            "target": 304628
+        },
+        {
+            "type": "Follows",
+            "source": 26996804,
+            "target": 26996811
+        },
+        {
+            "type": "Instance of",
+            "source": 26996811,
+            "target": 3943414
+        },
+        {
+            "type": "Instance of",
+            "source": 26996811,
+            "target": 1156659
+        },
+        {
+            "type": "Instance of",
+            "source": 26996811,
+            "target": 304628
+        },
+        {
+            "type": "Instance of",
+            "source": 27016750,
+            "target": 10513452
+        },
+        {
+            "type": "Instance of",
+            "source": 27016750,
+            "target": 5975031
+        },
+        {
+            "type": "Instance of",
+            "source": 27016752,
+            "target": 5975031
+        },
+        {
+            "type": "Follows",
+            "source": 27016752,
+            "target": 10513450
+        },
+        {
+            "type": "Follows",
+            "source": 27016752,
+            "target": 27016750
+        },
+        {
+            "type": "Instance of",
+            "source": 27016752,
+            "target": 207621
+        },
+        {
+            "type": "Instance of",
+            "source": 27016754,
+            "target": 10513445
+        },
+        {
+            "type": "Follows",
+            "source": 27016754,
+            "target": 27016752
+        },
+        {
+            "type": "Instance of",
+            "source": 27016754,
+            "target": 3943414
+        },
+        {
+            "type": "Instance of",
+            "source": 27016754,
+            "target": 207621
+        },
+        {
+            "type": "Instance of",
+            "source": 27016757,
+            "target": 3943414
+        },
+        {
+            "type": "Instance of",
+            "source": 27016762,
+            "target": 207621
+        },
+        {
+            "type": "Instance of",
+            "source": 27017230,
+            "target": 28130012
+        },
+        {
+            "type": "Instance of",
+            "source": 27017232,
+            "target": 1131681
+        },
+        {
+            "type": "Follows",
+            "source": 27017232,
+            "target": 54365943
+        },
+        {
+            "type": "Instance of",
+            "source": 27019786,
+            "target": 22169
+        },
+        {
+            "type": "Instance of",
+            "source": 27020062,
+            "target": 27017232
+        },
+        {
+            "type": "Follows",
+            "source": 27020062,
+            "target": 54571707
+        },
+        {
+            "type": "Instance of",
+            "source": 27020062,
+            "target": 3943414
+        },
+        {
+            "type": "Instance of",
+            "source": 2708256,
+            "target": 1254596
+        },
+        {
+            "type": "Instance of",
+            "source": 27096218,
+            "target": 207621
+        },
+        {
+            "type": "Subclass of",
+            "source": 27529879,
+            "target": 207621
+        },
+        {
+            "type": "Instance of",
+            "source": 27676327,
+            "target": 3943414
+        },
+        {
+            "type": "Instance of",
+            "source": 27940776,
+            "target": 284742
+        },
+        {
+            "type": "Instance of",
+            "source": 27940776,
+            "target": 196294
+        },
+        {
+            "type": "Instance of",
+            "source": 28050835,
+            "target": 1139274
+        },
+        {
+            "type": "Follows",
+            "source": 28050835,
+            "target": 47008954
+        },
+        {
+            "type": "Instance of",
+            "source": 28050835,
+            "target": 284742
+        },
+        {
+            "type": "Based on",
+            "source": 28130012,
+            "target": 7603
+        },
+        {
+            "type": "Subclass of",
+            "source": 28130012,
+            "target": 5975031
+        },
+        {
+            "type": "Instance of",
+            "source": 28130012,
+            "target": 27529879
+        },
+        {
+            "type": "Instance of",
+            "source": 28130012,
+            "target": 5975031
+        },
+        {
+            "type": "Subclass of",
+            "source": 28130012,
+            "target": 27529879
+        },
+        {
+            "type": "Instance of",
+            "source": 284471,
+            "target": 1752744
+        },
+        {
+            "type": "Subclass of",
+            "source": 28458427,
+            "target": 25036597
+        },
+        {
+            "type": "Subclass of",
+            "source": 284742,
+            "target": 7257715
+        },
+        {
+            "type": "Instance of",
+            "source": 284742,
+            "target": 79719
+        },
+        {
+            "type": "Instance of",
+            "source": 28554579,
+            "target": 79719
+        },
+        {
+            "type": "Instance of",
+            "source": 28568150,
+            "target": 1254596
+        },
+        {
+            "type": "Instance of",
+            "source": 288745,
+            "target": 3943414
+        },
+        {
+            "type": "Instance of",
+            "source": 288745,
+            "target": 1156659
+        },
+        {
+            "type": "Instance of",
+            "source": 28914702,
+            "target": 725920
+        },
+        {
+            "type": "Instance of",
+            "source": 28916324,
+            "target": 4839609
+        },
+        {
+            "type": "Instance of",
+            "source": 2939745,
+            "target": 3943414
+        },
+        {
+            "type": "Instance of",
+            "source": 296677,
+            "target": 178285
+        },
+        {
+            "type": "Instance of",
+            "source": 29905723,
+            "target": 1254596
+        },
+        {
+            "type": "Based on",
+            "source": 30222888,
+            "target": 2600299
+        },
+        {
+            "type": "Instance of",
+            "source": 30222888,
+            "target": 196294
+        },
+        {
+            "type": "Instance of",
+            "source": 3046258,
+            "target": 1752744
+        },
+        {
+            "type": "Based on",
+            "source": 304628,
+            "target": 308915
+        },
+        {
+            "type": "Subclass of",
+            "source": 304628,
+            "target": 207621
+        },
+        {
+            "type": "Subclass of",
+            "source": 304628,
+            "target": 3943414
+        },
+        {
+            "type": "Instance of",
+            "source": 3066722,
+            "target": 3943414
+        },
+        {
+            "type": "Subclass of",
+            "source": 308915,
+            "target": 1437937
+        },
+        {
+            "type": "Subclass of",
+            "source": 30939938,
+            "target": 79719
+        },
+        {
+            "type": "Instance of",
+            "source": 30940585,
+            "target": 51754273
+        },
+        {
+            "type": "Instance of",
+            "source": 30942811,
+            "target": 30939938
+        },
+        {
+            "type": "Instance of",
+            "source": 30942811,
+            "target": 284742
+        },
+        {
+            "type": "Subclass of",
+            "source": 31202214,
+            "target": 207621
+        },
+        {
+            "type": "Subclass of",
+            "source": 31202214,
+            "target": 3238057
+        },
+        {
+            "type": "Instance of",
+            "source": 3139999,
+            "target": 207621
+        },
+        {
+            "type": "Instance of",
+            "source": 3153096,
+            "target": 207621
+        },
+        {
+            "type": "Instance of",
+            "source": 319417,
+            "target": 1037852
+        },
+        {
+            "type": "Instance of",
+            "source": 3238028,
+            "target": 7257715
+        },
+        {
+            "type": "Instance of",
+            "source": 3238028,
+            "target": 196294
+        },
+        {
+            "type": "Subclass of",
+            "source": 3238057,
+            "target": 79719
+        },
+        {
+            "type": "Instance of",
+            "source": 3238057,
+            "target": 79719
+        },
+        {
+            "type": "Instance of",
+            "source": 33042394,
+            "target": 1437937
+        },
+        {
+            "type": "Subclass of",
+            "source": 332155,
+            "target": 79719
+        },
+        {
+            "type": "Subclass of",
+            "source": 334661,
+            "target": 1156659
+        },
+        {
+            "type": "Instance of",
+            "source": 334661,
+            "target": 1437937
+        },
+        {
+            "type": "Based on",
+            "source": 337279,
+            "target": 2495855
+        },
+        {
+            "type": "Instance of",
+            "source": 337279,
+            "target": 1437937
+        },
+        {
+            "type": "Instance of",
+            "source": 34179348,
+            "target": 284742
+        },
+        {
+            "type": "Follows",
+            "source": 34179348,
+            "target": 18810331
+        },
+        {
+            "type": "Subclass of",
+            "source": 3510465,
+            "target": 25036597
+        },
+        {
+            "type": "Instance of",
+            "source": 35254645,
+            "target": 284742
+        },
+        {
+            "type": "Follows",
+            "source": 35254645,
+            "target": 47008966
+        },
+        {
+            "type": "Instance of",
+            "source": 3564577,
+            "target": 3943414
+        },
+        {
+            "type": "Instance of",
+            "source": 3570238,
+            "target": 178285
+        },
+        {
+            "type": "Instance of",
+            "source": 36795408,
+            "target": 284742
+        },
+        {
+            "type": "Follows",
+            "source": 36795408,
+            "target": 18810160
+        },
+        {
+            "type": "Instance of",
+            "source": 3731857,
+            "target": 207621
+        },
+        {
+            "type": "Instance of",
+            "source": 3756289,
+            "target": 207621
+        },
+        {
+            "type": "Instance of",
+            "source": 376841,
+            "target": 1437937
+        },
+        {
+            "type": "Instance of",
+            "source": 3780982,
+            "target": 3943414
+        },
+        {
+            "type": "Instance of",
+            "source": 3780982,
+            "target": 1437937
+        },
+        {
+            "type": "Instance of",
+            "source": 38346089,
+            "target": 3943414
+        },
+        {
+            "type": "Instance of",
+            "source": 38347878,
+            "target": 3943414
+        },
+        {
+            "type": "Instance of",
+            "source": 38349857,
+            "target": 3943414
+        },
+        {
+            "type": "Instance of",
+            "source": 38351460,
+            "target": 3943414
+        },
+        {
+            "type": "Instance of",
+            "source": 38364310,
+            "target": 3943414
+        },
+        {
+            "type": "Instance of",
+            "source": 38365570,
+            "target": 1156659
+        },
+        {
+            "type": "Instance of",
+            "source": 38365646,
+            "target": 1156659
+        },
+        {
+            "type": "Instance of",
+            "source": 38365770,
+            "target": 1156659
+        },
+        {
+            "type": "Instance of",
+            "source": 38365796,
+            "target": 1156659
+        },
+        {
+            "type": "Instance of",
+            "source": 38365944,
+            "target": 1156659
+        },
+        {
+            "type": "Instance of",
+            "source": 38366115,
+            "target": 1156659
+        },
+        {
+            "type": "Instance of",
+            "source": 38366264,
+            "target": 1156659
+        },
+        {
+            "type": "Instance of",
+            "source": 38490890,
+            "target": 1156659
+        },
+        {
+            "type": "Instance of",
+            "source": 38493399,
+            "target": 1156659
+        },
+        {
+            "type": "Instance of",
+            "source": 38493724,
+            "target": 1156659
+        },
+        {
+            "type": "Instance of",
+            "source": 38494497,
+            "target": 1156659
+        },
+        {
+            "type": "Instance of",
+            "source": 38494754,
+            "target": 1156659
+        },
+        {
+            "type": "Instance of",
+            "source": 38495282,
+            "target": 1156659
+        },
+        {
+            "type": "Instance of",
+            "source": 38495487,
+            "target": 1156659
+        },
+        {
+            "type": "Instance of",
+            "source": 38495690,
+            "target": 1156659
+        },
+        {
+            "type": "Instance of",
+            "source": 38495954,
+            "target": 1156659
+        },
+        {
+            "type": "Instance of",
+            "source": 38496210,
+            "target": 1156659
+        },
+        {
+            "type": "Instance of",
+            "source": 38496558,
+            "target": 1156659
+        },
+        {
+            "type": "Instance of",
+            "source": 386474,
+            "target": 1437937
+        },
+        {
+            "type": "Instance of",
+            "source": 386474,
+            "target": 1156659
+        },
+        {
+            "type": "Instance of",
+            "source": 38685700,
+            "target": 1156659
+        },
+        {
+            "type": "Instance of",
+            "source": 38686558,
+            "target": 1156659
+        },
+        {
+            "type": "Instance of",
+            "source": 389898,
+            "target": 178285
+        },
+        {
+            "type": "Subclass of",
+            "source": 39087380,
+            "target": 205647
+        },
+        {
+            "type": "Subclass of",
+            "source": 3943414,
+            "target": 196294
+        },
+        {
+            "type": "Subclass of",
+            "source": 3943414,
+            "target": 207621
+        },
+        {
+            "type": "Instance of",
+            "source": 3976707,
+            "target": 207621
+        },
+        {
+            "type": "Subclass of",
+            "source": 4016359,
+            "target": 207621
+        },
+        {
+            "type": "Instance of",
+            "source": 4016359,
+            "target": 207621
+        },
+        {
+            "type": "Instance of",
+            "source": 4021481,
+            "target": 178285
+        },
+        {
+            "type": "Instance of",
+            "source": 4045381,
+            "target": 178285
+        },
+        {
+            "type": "Instance of",
+            "source": 4045888,
+            "target": 7257715
+        },
+        {
+            "type": "Instance of",
+            "source": 4047648,
+            "target": 178285
+        },
+        {
+            "type": "Subclass of",
+            "source": 4113957,
+            "target": 205647
+        },
+        {
+            "type": "Instance of",
+            "source": 4113958,
+            "target": 205647
+        },
+        {
+            "type": "Subclass of",
+            "source": 41229007,
+            "target": 79719
+        },
+        {
+            "type": "Subclass of",
+            "source": 41258135,
+            "target": 79719
+        },
+        {
+            "type": "Instance of",
+            "source": 42172282,
+            "target": 284742
+        },
+        {
+            "type": "Instance of",
+            "source": 42553662,
+            "target": 284742
+        },
+        {
+            "type": "Follows",
+            "source": 42553662,
+            "target": 15643954
+        },
+        {
+            "type": "Instance of",
+            "source": 42716613,
+            "target": 284742
+        },
+        {
+            "type": "Instance of",
+            "source": 42716613,
+            "target": 196294
+        },
+        {
+            "type": "Instance of",
+            "source": 43338605,
+            "target": 207621
+        },
+        {
+            "type": "Instance of",
+            "source": 43399754,
+            "target": 1254596
+        },
+        {
+            "type": "Instance of",
+            "source": 4398755,
+            "target": 1139274
+        },
+        {
+            "type": "Instance of",
+            "source": 44128984,
+            "target": 284742
+        },
+        {
+            "type": "Follows",
+            "source": 44128984,
+            "target": 44283370
+        },
+        {
+            "type": "Instance of",
+            "source": 44282633,
+            "target": 284742
+        },
+        {
+            "type": "Instance of",
+            "source": 44282641,
+            "target": 284742
+        },
+        {
+            "type": "Instance of",
+            "source": 44283370,
+            "target": 284742
+        },
+        {
+            "type": "Subclass of",
+            "source": 4462386,
+            "target": 205647
+        },
+        {
+            "type": "Instance of",
+            "source": 45349003,
+            "target": 1254596
+        },
+        {
+            "type": "Instance of",
+            "source": 4653881,
+            "target": 207621
+        },
+        {
+            "type": "Instance of",
+            "source": 4680711,
+            "target": 1156659
+        },
+        {
+            "type": "Instance of",
+            "source": 47001652,
+            "target": 196294
+        },
+        {
+            "type": "Instance of",
+            "source": 47001652,
+            "target": 284742
+        },
+        {
+            "type": "Instance of",
+            "source": 47001673,
+            "target": 51754273
+        },
+        {
+            "type": "Instance of",
+            "source": 47001673,
+            "target": 7257715
+        },
+        {
+            "type": "Instance of",
+            "source": 47008926,
+            "target": 284742
+        },
+        {
+            "type": "Instance of",
+            "source": 47008927,
+            "target": 284742
+        },
+        {
+            "type": "Follows",
+            "source": 47008927,
+            "target": 47008926
+        },
+        {
+            "type": "Instance of",
+            "source": 47008954,
+            "target": 284742
+        },
+        {
+            "type": "Instance of",
+            "source": 47008966,
+            "target": 284742
+        },
+        {
+            "type": "Subclass of",
+            "source": 47012574,
+            "target": 19652
+        },
+        {
+            "type": "Subclass of",
+            "source": 4707078,
+            "target": 205647
+        },
+        {
+            "type": "Instance of",
+            "source": 47155361,
+            "target": 1254596
+        },
+        {
+            "type": "Subclass of",
+            "source": 47169086,
+            "target": 25036597
+        },
+        {
+            "type": "Subclass of",
+            "source": 47246828,
+            "target": 19652
+        },
+        {
+            "type": "Instance of",
+            "source": 47524112,
+            "target": 207621
+        },
+        {
+            "type": "Instance of",
+            "source": 47524122,
+            "target": 207621
+        },
+        {
+            "type": "Subclass of",
+            "source": 47530884,
+            "target": 19652
+        },
+        {
+            "type": "Subclass of",
+            "source": 47530911,
+            "target": 19652
+        },
+        {
+            "type": "Subclass of",
+            "source": 48271011,
+            "target": 191307
+        },
+        {
+            "type": "Instance of",
+            "source": 48271011,
+            "target": 3943414
+        },
+        {
+            "type": "Subclass of",
+            "source": 4839609,
+            "target": 25036597
+        },
+        {
+            "type": "Instance of",
+            "source": 48463560,
+            "target": 7257727
+        },
+        {
+            "type": "Instance of",
+            "source": 48467248,
+            "target": 7257727
+        },
+        {
+            "type": "Instance of",
+            "source": 48473637,
+            "target": 7257727
+        },
+        {
+            "type": "Instance of",
+            "source": 48477347,
+            "target": 7257727
+        },
+        {
+            "type": "Instance of",
+            "source": 48479463,
+            "target": 7257727
+        },
+        {
+            "type": "Instance of",
+            "source": 48795302,
+            "target": 1156659
+        },
+        {
+            "type": "Subclass of",
+            "source": 48818116,
+            "target": 25036597
+        },
+        {
+            "type": "Instance of",
+            "source": 4918693,
+            "target": 207621
+        },
+        {
+            "type": "Instance of",
+            "source": 492916,
+            "target": 207621
+        },
+        {
+            "type": "Subclass of",
+            "source": 50551851,
+            "target": 19652
+        },
+        {
+            "type": "Subclass of",
+            "source": 50552069,
+            "target": 19652
+        },
+        {
+            "type": "Instance of",
+            "source": 50829096,
+            "target": 22169
+        },
+        {
+            "type": "Instance of",
+            "source": 50829104,
+            "target": 22169
+        },
+        {
+            "type": "Instance of",
+            "source": 5101983,
+            "target": 79719
+        },
+        {
+            "type": "Instance of",
+            "source": 5140041,
+            "target": 207621
+        },
+        {
+            "type": "Instance of",
+            "source": 5169203,
+            "target": 196294
+        },
+        {
+            "type": "Subclass of",
+            "source": 51754273,
+            "target": 7257715
+        },
+        {
+            "type": "Subclass of",
+            "source": 5183504,
+            "target": 284742
+        },
+        {
+            "type": "Based on",
+            "source": 5190781,
+            "target": 191307
+        },
+        {
+            "type": "Instance of",
+            "source": 5190781,
+            "target": 1437937
+        },
+        {
+            "type": "Instance of",
+            "source": 51915662,
+            "target": 1254596
+        },
+        {
+            "type": "Instance of",
+            "source": 5227408,
+            "target": 1254596
+        },
+        {
+            "type": "Instance of",
+            "source": 52555753,
+            "target": 284742
+        },
+        {
+            "type": "Instance of",
+            "source": 52555753,
+            "target": 196294
+        },
+        {
+            "type": "Instance of",
+            "source": 5275819,
+            "target": 1254596
+        },
+        {
+            "type": "Instance of",
+            "source": 5289198,
+            "target": 193345
+        },
+        {
+            "type": "Instance of",
+            "source": 5291073,
+            "target": 196294
+        },
+        {
+            "type": "Subclass of",
+            "source": 5308101,
+            "target": 205647
+        },
+        {
+            "type": "Subclass of",
+            "source": 5308102,
+            "target": 205647
+        },
+        {
+            "type": "Subclass of",
+            "source": 5308115,
+            "target": 205647
+        },
+        {
+            "type": "Subclass of",
+            "source": 5308116,
+            "target": 205647
+        },
+        {
+            "type": "Subclass of",
+            "source": 5308127,
+            "target": 205647
+        },
+        {
+            "type": "Subclass of",
+            "source": 5308129,
+            "target": 205647
+        },
+        {
+            "type": "Instance of",
+            "source": 53410575,
+            "target": 178285
+        },
+        {
+            "type": "Instance of",
+            "source": 53411361,
+            "target": 178285
+        },
+        {
+            "type": "Follows",
+            "source": 53411361,
+            "target": 53410575
+        },
+        {
+            "type": "Instance of",
+            "source": 5341236,
+            "target": 1156659
+        },
+        {
+            "type": "Instance of",
+            "source": 53679804,
+            "target": 178285
+        },
+        {
+            "type": "Follows",
+            "source": 53679804,
+            "target": 53411361
+        },
+        {
+            "type": "Follows",
+            "source": 53679891,
+            "target": 53679804
+        },
+        {
+            "type": "Subclass of",
+            "source": 53679891,
+            "target": 178285
+        },
+        {
+            "type": "Instance of",
+            "source": 53859967,
+            "target": 284742
+        },
+        {
+            "type": "Instance of",
+            "source": 53859967,
+            "target": 196294
+        },
+        {
+            "type": "Instance of",
+            "source": 54365943,
+            "target": 28130012
+        },
+        {
+            "type": "Follows",
+            "source": 54365943,
+            "target": 27017230
+        },
+        {
+            "type": "Instance of",
+            "source": 5440224,
+            "target": 79719
+        },
+        {
+            "type": "Instance of",
+            "source": 54571707,
+            "target": 28130012
+        },
+        {
+            "type": "Instance of",
+            "source": 5460320,
+            "target": 207621
+        },
+        {
+            "type": "Instance of",
+            "source": 5477987,
+            "target": 1156659
+        },
+        {
+            "type": "Instance of",
+            "source": 5477987,
+            "target": 207621
+        },
+        {
+            "type": "Subclass of",
+            "source": 55075620,
+            "target": 79719
+        },
+        {
+            "type": "Instance of",
+            "source": 5514182,
+            "target": 3943414
+        },
+        {
+            "type": "Instance of",
+            "source": 5551105,
+            "target": 207621
+        },
+        {
+            "type": "Instance of",
+            "source": 55546690,
+            "target": 6905323
+        },
+        {
+            "type": "Instance of",
+            "source": 55603117,
+            "target": 79719
+        },
+        {
+            "type": "Instance of",
+            "source": 55633170,
+            "target": 1281977
+        },
+        {
+            "type": "Instance of",
+            "source": 55633295,
+            "target": 1281977
+        },
+        {
+            "type": "Instance of",
+            "source": 55824877,
+            "target": 1254596
+        },
+        {
+            "type": "Instance of",
+            "source": 55896111,
+            "target": 178285
+        },
+        {
+            "type": "Instance of",
+            "source": 56064789,
+            "target": 79719
+        },
+        {
+            "type": "Instance of",
+            "source": 56292840,
+            "target": 284742
+        },
+        {
+            "type": "Instance of",
+            "source": 56292840,
+            "target": 196294
+        },
+        {
+            "type": "Instance of",
+            "source": 56299316,
+            "target": 284742
+        },
+        {
+            "type": "Instance of",
+            "source": 5637395,
+            "target": 207621
+        },
+        {
+            "type": "Instance of",
+            "source": 56419952,
+            "target": 7257715
+        },
+        {
+            "type": "Instance of",
+            "source": 56419952,
+            "target": 196294
+        },
+        {
+            "type": "Subclass of",
+            "source": 56641310,
+            "target": 205647
+        },
+        {
+            "type": "Instance of",
+            "source": 5773924,
+            "target": 1437937
+        },
+        {
+            "type": "Subclass of",
+            "source": 57826961,
+            "target": 57826980
+        },
+        {
+            "type": "Subclass of",
+            "source": 57826980,
+            "target": 79719
+        },
+        {
+            "type": "Instance of",
+            "source": 5975028,
+            "target": 3943414
+        },
+        {
+            "type": "Subclass of",
+            "source": 5975031,
+            "target": 1139274
+        },
+        {
+            "type": "Subclass of",
+            "source": 5975031,
+            "target": 3943414
+        },
+        {
+            "type": "Instance of",
+            "source": 6043507,
+            "target": 207621
+        },
+        {
+            "type": "Instance of",
+            "source": 613680,
+            "target": 1254596
+        },
+        {
+            "type": "Instance of",
+            "source": 6165015,
+            "target": 207621
+        },
+        {
+            "type": "Subclass of",
+            "source": 616526,
+            "target": 1437937
+        },
+        {
+            "type": "Instance of",
+            "source": 616526,
+            "target": 207621
+        },
+        {
+            "type": "Instance of",
+            "source": 621330,
+            "target": 3943414
+        },
+        {
+            "type": "Instance of",
+            "source": 627693,
+            "target": 196294
+        },
+        {
+            "type": "Instance of",
+            "source": 635577,
+            "target": 207621
+        },
+        {
+            "type": "Subclass of",
+            "source": 640735,
+            "target": 57826980
+        },
+        {
+            "type": "Based on",
+            "source": 648252,
+            "target": 308915
+        },
+        {
+            "type": "Instance of",
+            "source": 648252,
+            "target": 3943414
+        },
+        {
+            "type": "Based on",
+            "source": 6542418,
+            "target": 207243
+        },
+        {
+            "type": "Instance of",
+            "source": 6542418,
+            "target": 1437937
+        },
+        {
+            "type": "Instance of",
+            "source": 6543023,
+            "target": 79719
+        },
+        {
+            "type": "Instance of",
+            "source": 6696468,
+            "target": 1437937
+        },
+        {
+            "type": "Instance of",
+            "source": 6696468,
+            "target": 1156659
+        },
+        {
+            "type": "Instance of",
+            "source": 6716996,
+            "target": 1037852
+        },
+        {
+            "type": "Subclass of",
+            "source": 6720214,
+            "target": 25036597
+        },
+        {
+            "type": "Instance of",
+            "source": 6905323,
+            "target": 284742
+        },
+        {
+            "type": "Instance of",
+            "source": 6905323,
+            "target": 196294
+        },
+        {
+            "type": "Subclass of",
+            "source": 6905942,
+            "target": 284742
+        },
+        {
+            "type": "Instance of",
+            "source": 6905942,
+            "target": 79719
+        },
+        {
+            "type": "Subclass of",
+            "source": 6905942,
+            "target": 1139274
+        },
+        {
+            "type": "Instance of",
+            "source": 6918172,
+            "target": 205647
+        },
+        {
+            "type": "Instance of",
+            "source": 6936496,
+            "target": 284742
+        },
+        {
+            "type": "Instance of",
+            "source": 6936496,
+            "target": 79719
+        },
+        {
+            "type": "Instance of",
+            "source": 6937225,
+            "target": 284742
+        },
+        {
+            "type": "Follows",
+            "source": 6937225,
+            "target": 19068204
+        },
+        {
+            "type": "Instance of",
+            "source": 6937225,
+            "target": 79719
+        },
+        {
+            "type": "Instance of",
+            "source": 6938433,
+            "target": 25047642
+        },
+        {
+            "type": "Instance of",
+            "source": 6938433,
+            "target": 284742
+        },
+        {
+            "type": "Instance of",
+            "source": 6938433,
+            "target": 196294
+        },
+        {
+            "type": "Instance of",
+            "source": 6945800,
+            "target": 7257727
+        },
+        {
+            "type": "Instance of",
+            "source": 6952418,
+            "target": 1437937
+        },
+        {
+            "type": "Subclass of",
+            "source": 6998997,
+            "target": 284742
+        },
+        {
+            "type": "Instance of",
+            "source": 6998997,
+            "target": 79719
+        },
+        {
+            "type": "Subclass of",
+            "source": 6998997,
+            "target": 1139274
+        },
+        {
+            "type": "Subclass of",
+            "source": 6999319,
+            "target": 284742
+        },
+        {
+            "type": "Subclass of",
+            "source": 7000957,
+            "target": 25036597
+        },
+        {
+            "type": "Subclass of",
+            "source": 7096068,
+            "target": 196294
+        },
+        {
+            "type": "Subclass of",
+            "source": 7096068,
+            "target": 19681540
+        },
+        {
+            "type": "Subclass of",
+            "source": 713244,
+            "target": 3943414
+        },
+        {
+            "type": "Subclass of",
+            "source": 7156793,
+            "target": 1254596
+        },
+        {
+            "type": "Instance of",
+            "source": 7238710,
+            "target": 79719
+        },
+        {
+            "type": "Instance of",
+            "source": 7257361,
+            "target": 25047642
+        },
+        {
+            "type": "Instance of",
+            "source": 7257361,
+            "target": 284742
+        },
+        {
+            "type": "Subclass of",
+            "source": 7257461,
+            "target": 79719
+        },
+        {
+            "type": "Subclass of",
+            "source": 7257715,
+            "target": 79719
+        },
+        {
+            "type": "Subclass of",
+            "source": 7257727,
+            "target": 19652
+        },
+        {
+            "type": "Subclass of",
+            "source": 725920,
+            "target": 3238057
+        },
+        {
+            "type": "Instance of",
+            "source": 7300815,
+            "target": 207621
+        },
+        {
+            "type": "Instance of",
+            "source": 7302458,
+            "target": 207621
+        },
+        {
+            "type": "Instance of",
+            "source": 7332330,
+            "target": 207621
+        },
+        {
+            "type": "Instance of",
+            "source": 7391010,
+            "target": 207621
+        },
+        {
+            "type": "Instance of",
+            "source": 7521185,
+            "target": 7096068
+        },
+        {
+            "type": "Instance of",
+            "source": 7638252,
+            "target": 207621
+        },
+        {
+            "type": "Instance of",
+            "source": 7659488,
+            "target": 3943414
+        },
+        {
+            "type": "Instance of",
+            "source": 7659488,
+            "target": 207621
+        },
+        {
+            "type": "Instance of",
+            "source": 777520,
+            "target": 3943414
+        },
+        {
+            "type": "Instance of",
+            "source": 7901822,
+            "target": 1254596
+        },
+        {
+            "type": "Instance of",
+            "source": 7999853,
+            "target": 1254596
+        },
+        {
+            "type": "Instance of",
+            "source": 8023586,
+            "target": 178285
+        },
+        {
+            "type": "Instance of",
+            "source": 8027433,
+            "target": 1254596
+        },
+        {
+            "type": "Instance of",
+            "source": 8041726,
+            "target": 207621
+        },
+        {
+            "type": "Instance of",
+            "source": 8075320,
+            "target": 1254596
+        },
+        {
+            "type": "Subclass of",
+            "source": 814499,
+            "target": 2144323
+        },
+        {
+            "type": "Subclass of",
+            "source": 905768,
+            "target": 19652
+        },
+        {
+            "type": "Instance of",
+            "source": 9265239,
+            "target": 178285
+        },
+        {
+            "type": "Instance of",
+            "source": 979794,
+            "target": 207621
+        },
+        {
+            "type": "Instance of",
+            "source": 10249,
+            "target": 25047642
+        },
+        {
+            "type": "Instance of",
+            "source": 10249,
+            "target": 3943414
+        },
+        {
+            "type": "Subclass of",
+            "source": 10267,
+            "target": 178285
+        },
+        {
+            "type": "Subclass of",
+            "source": 10267,
+            "target": 207621
+        },
+        {
+            "type": "Subclass of",
+            "source": 19652,
+            "target": 79719
+        },
+        {
+            "type": "Instance of",
+            "source": 22169,
+            "target": 5975031
+        },
+        {
+            "type": "Instance of",
+            "source": 22169,
+            "target": 1139274
+        },
+        {
+            "type": "Subclass of",
+            "source": 7603,
+            "target": 5975031
+        },
+        {
+            "type": "Subclass of",
+            "source": 7603,
+            "target": 27529879
+        }
+    ],
+    "nodes": [
+        {
+            "node_type": "license",
+            "label": "CERN Open Hardware Licence",
+            "id": 1023365,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "Giftware",
+            "id": 10289473,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "public domain software",
+            "id": 1037852,
+            "count": 3
+        },
+        {
+            "node_type": "license",
+            "label": "LaTeX Project Public License",
+            "id": 1050635,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "GPL-3.0",
+            "id": 10513445,
+            "count": 4
+        },
+        {
+            "node_type": "license",
+            "label": "GPLv2",
+            "id": 10513450,
+            "count": 5
+        },
+        {
+            "node_type": "license",
+            "label": "GNU General Public License, version 1",
+            "id": 10513452,
+            "count": 4
+        },
+        {
+            "node_type": "license",
+            "label": "CeCILL",
+            "id": 1052189,
+            "count": 2
+        },
+        {
+            "node_type": "license",
+            "label": "Q10909819",
+            "id": 10909819,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "Client access license",
+            "id": 1100998,
+            "count": 2
+        },
+        {
+            "node_type": "license",
+            "label": "ViewFD",
+            "id": 1107202,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "Common Public Attribution License",
+            "id": 1116195,
+            "count": 3
+        },
+        {
+            "node_type": "license",
+            "label": "AviUtl",
+            "id": 11190590,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "Xelo PDF",
+            "id": 11298685,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "GNU Affero General Public License",
+            "id": 1131681,
+            "count": 5
+        },
+        {
+            "node_type": "license",
+            "label": "Q11324228",
+            "id": 11324228,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "copyleft license",
+            "id": 1139274,
+            "count": 13
+        },
+        {
+            "node_type": "license",
+            "label": "Jabber Open Source License",
+            "id": 1149006,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "3GP Converter",
+            "id": 11498505,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "IZArc",
+            "id": 1150694,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "SIL Open Font License",
+            "id": 1150837,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "platform as a service",
+            "id": 1153767,
+            "count": 3
+        },
+        {
+            "node_type": "license",
+            "label": "open source license",
+            "id": 1156659,
+            "count": 40
+        },
+        {
+            "node_type": "license",
+            "label": "Open Database License",
+            "id": 1224853,
+            "count": 2
+        },
+        {
+            "node_type": "license",
+            "label": "Driving licence in Brazil",
+            "id": 12470055,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "software as a service",
+            "id": 1254596,
+            "count": 24
+        },
+        {
+            "node_type": "license",
+            "label": "Windows Malicious Software Removal Tool",
+            "id": 1259297,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "Eclipse Public License",
+            "id": 1281977,
+            "count": 4
+        },
+        {
+            "node_type": "license",
+            "label": "AROS Public License",
+            "id": 13257633,
+            "count": 3
+        },
+        {
+            "node_type": "license",
+            "label": "European Union Public Licence",
+            "id": 1376919,
+            "count": 2
+        },
+        {
+            "node_type": "license",
+            "label": "Apache-2.0",
+            "id": 13785927,
+            "count": 3
+        },
+        {
+            "node_type": "license",
+            "label": "Q Public License",
+            "id": 1396282,
+            "count": 2
+        },
+        {
+            "node_type": "license",
+            "label": "Open Publication License",
+            "id": 1412537,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "permissive free software licence",
+            "id": 1437937,
+            "count": 22
+        },
+        {
+            "node_type": "license",
+            "label": "freemium",
+            "id": 1444631,
+            "count": 2
+        },
+        {
+            "node_type": "license",
+            "label": "Osiris",
+            "id": 1448814,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "Free Download Manager",
+            "id": 1453399,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "Artistic License 1.0",
+            "id": 14624823,
+            "count": 2
+        },
+        {
+            "node_type": "license",
+            "label": "Artistic License 2.0",
+            "id": 14624826,
+            "count": 4
+        },
+        {
+            "node_type": "license",
+            "label": "European driving licence",
+            "id": 1480858,
+            "count": 2
+        },
+        {
+            "node_type": "license",
+            "label": "GNAT Modified General Public License",
+            "id": 1486114,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "GPL linking exception",
+            "id": 1486447,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "Creative Commons Attribution-ShareAlike 3.0 Unported",
+            "id": 14946043,
+            "count": 5
+        },
+        {
+            "node_type": "license",
+            "label": "Creative Commons Attribution 3.0 Unported",
+            "id": 14947546,
+            "count": 4
+        },
+        {
+            "node_type": "license",
+            "label": "Ventrilo",
+            "id": 1500241,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "Free Art License",
+            "id": 152332,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "WTFPL",
+            "id": 152481,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "IUPAC-InChI Trust License",
+            "id": 15410639,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "Microsoft Public License",
+            "id": 15477153,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported",
+            "id": 15643954,
+            "count": 4
+        },
+        {
+            "node_type": "license",
+            "label": "Q15875459",
+            "id": 15875459,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "Creative Commons Attribution-ShareAlike 2.5 Sweden",
+            "id": 15914252,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "Italian Open Data License",
+            "id": 16566743,
+            "count": 2
+        },
+        {
+            "node_type": "license",
+            "label": "experimental use permit",
+            "id": 16911506,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "Yahoo! Public License",
+            "id": 16948289,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "Eiffel Forum License",
+            "id": 17011832,
+            "count": 2
+        },
+        {
+            "node_type": "license",
+            "label": "Open Government Licence",
+            "id": 17016921,
+            "count": 2
+        },
+        {
+            "node_type": "license",
+            "label": "MPICH2 license",
+            "id": 17070027,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "Cocaine",
+            "id": 17087127,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "logging as a service",
+            "id": 17125478,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "recovery as a service",
+            "id": 17143005,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "doujin-mark",
+            "id": 17229293,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "Open Game License",
+            "id": 1752744,
+            "count": 3
+        },
+        {
+            "node_type": "license",
+            "label": "Microsoft Reciprocal License",
+            "id": 1772828,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "Apache-1.1",
+            "id": 17817999,
+            "count": 3
+        },
+        {
+            "node_type": "license",
+            "label": "freeware",
+            "id": 178285,
+            "count": 34
+        },
+        {
+            "node_type": "license",
+            "label": "LTspice",
+            "id": 1798391,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "Creative Commons Attribution-ShareAlike 3.0 Netherlands",
+            "id": 18195572,
+            "count": 4
+        },
+        {
+            "node_type": "license",
+            "label": "Creative Commons Attribution-ShareAlike 4.0 International",
+            "id": 18199165,
+            "count": 4
+        },
+        {
+            "node_type": "license",
+            "label": "Creative Commons Attribution-ShareAlike 2.5 Netherlands",
+            "id": 18199175,
+            "count": 3
+        },
+        {
+            "node_type": "license",
+            "label": "OpenSaaS",
+            "id": 18357595,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "IBM Bluemix",
+            "id": 18378690,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "3-clause BSD License",
+            "id": 18491847,
+            "count": 2
+        },
+        {
+            "node_type": "license",
+            "label": "2-clause BSD license",
+            "id": 18517294,
+            "count": 2
+        },
+        {
+            "node_type": "license",
+            "label": "Expat license",
+            "id": 18526198,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "LGPL-2.1",
+            "id": 18534390,
+            "count": 3
+        },
+        {
+            "node_type": "license",
+            "label": "LGPL-3.0",
+            "id": 18534393,
+            "count": 2
+        },
+        {
+            "node_type": "license",
+            "label": "PostgreSQL License",
+            "id": 18563589,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "Norwegian Licence for Open Government Data",
+            "id": 18632926,
+            "count": 2
+        },
+        {
+            "node_type": "license",
+            "label": "Creative Commons Attribution 3.0 United States",
+            "id": 18810143,
+            "count": 2
+        },
+        {
+            "node_type": "license",
+            "label": "Creative Commons Attribution-NoDerivs 3.0 Unported",
+            "id": 18810160,
+            "count": 3
+        },
+        {
+            "node_type": "license",
+            "label": "Creative Commons Attribution-NonCommercial 3.0 Unported",
+            "id": 18810331,
+            "count": 3
+        },
+        {
+            "node_type": "license",
+            "label": "CC BY 2.5",
+            "id": 18810333,
+            "count": 4
+        },
+        {
+            "node_type": "license",
+            "label": "Creative Commons Attribution-NoDerivs 2.5 Generic",
+            "id": 18810338,
+            "count": 3
+        },
+        {
+            "node_type": "license",
+            "label": "Creative Commons Attribution-ShareAlike 3.0 United States",
+            "id": 18810341,
+            "count": 3
+        },
+        {
+            "node_type": "license",
+            "label": "Vivaldi Browser",
+            "id": 18913176,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "10 of Woody Guthrie's songs",
+            "id": 19019246,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "Against DRM license",
+            "id": 1905513,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "Creative Commons Attribution-NonCommercial-NoDerivs 2.5 Generic",
+            "id": 19068204,
+            "count": 4
+        },
+        {
+            "node_type": "license",
+            "label": "Creative Commons Attribution-NonCommercial-ShareAlike 2.5 Generic",
+            "id": 19068212,
+            "count": 4
+        },
+        {
+            "node_type": "license",
+            "label": "Creative Commons Attribution-ShareAlike 2.0 Generic",
+            "id": 19068220,
+            "count": 4
+        },
+        {
+            "node_type": "license",
+            "label": "Creative Commons Attribution-NonCommercial 2.5 Generic",
+            "id": 19113746,
+            "count": 3
+        },
+        {
+            "node_type": "license",
+            "label": "Creative Commons Attribution-ShareAlike 2.5 Generic",
+            "id": 19113751,
+            "count": 4
+        },
+        {
+            "node_type": "license",
+            "label": "Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported",
+            "id": 19125045,
+            "count": 3
+        },
+        {
+            "node_type": "license",
+            "label": "Creative Commons Attribution 2.0 Generic",
+            "id": 19125117,
+            "count": 4
+        },
+        {
+            "node_type": "license",
+            "label": "Berkeley Software Distribution license",
+            "id": 191307,
+            "count": 9
+        },
+        {
+            "node_type": "license",
+            "label": "GNU Lesser General Public License",
+            "id": 192897,
+            "count": 3
+        },
+        {
+            "node_type": "license",
+            "label": "1-clause BSD License",
+            "id": 19292556,
+            "count": 2
+        },
+        {
+            "node_type": "license",
+            "label": "adware",
+            "id": 193345,
+            "count": 2
+        },
+        {
+            "node_type": "license",
+            "label": "Q19392936",
+            "id": 19392936,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "MirOS Licence",
+            "id": 1951343,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "free license",
+            "id": 196294,
+            "count": 48
+        },
+        {
+            "node_type": "license",
+            "label": "Hardware license",
+            "id": 19681540,
+            "count": 2
+        },
+        {
+            "node_type": "license",
+            "label": "data as a service",
+            "id": 1994744,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "Creative Commons Attribution 4.0 International",
+            "id": 20007257,
+            "count": 3
+        },
+        {
+            "node_type": "license",
+            "label": "FreeBSD Documentation License",
+            "id": 2033808,
+            "count": 2
+        },
+        {
+            "node_type": "license",
+            "label": "driver's license",
+            "id": 205647,
+            "count": 18
+        },
+        {
+            "node_type": "license",
+            "label": "zlib License",
+            "id": 207243,
+            "count": 2
+        },
+        {
+            "node_type": "license",
+            "label": "software license",
+            "id": 207621,
+            "count": 54
+        },
+        {
+            "node_type": "license",
+            "label": "Nethack General Public License",
+            "id": 20764732,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "SSLeay",
+            "id": 20972134,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "search as a service",
+            "id": 21015577,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "Localize",
+            "id": 21034421,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "Driving licence in Italy",
+            "id": 21193071,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "parking permit",
+            "id": 2144323,
+            "count": 2
+        },
+        {
+            "node_type": "license",
+            "label": "4-clause BSD license",
+            "id": 21503790,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "Unlicense",
+            "id": 21659044,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "Fair License",
+            "id": 22682017,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "MaNGOS",
+            "id": 2277058,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "Sleepycat License",
+            "id": 2294050,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "Creative Commons Attribution-NonCommercial-NoDerivs 3.0 France",
+            "id": 23006354,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "LGPL-2.0",
+            "id": 23035974,
+            "count": 2
+        },
+        {
+            "node_type": "license",
+            "label": "Netscape Public License",
+            "id": 2306611,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "Microsoft Research Image Composite Editor",
+            "id": 2336497,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "Design Science License",
+            "id": 2352806,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "Boost Software License",
+            "id": 2353141,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "SafetySync",
+            "id": 23927060,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "TrapCall",
+            "id": 24075562,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International",
+            "id": 24082749,
+            "count": 2
+        },
+        {
+            "node_type": "license",
+            "label": "The GodFather",
+            "id": 2411630,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "Public Domain Dedication and License v1.0",
+            "id": 24273512,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "Creative Commons Attribution-ShareAlike 2.5 Canada",
+            "id": 24331618,
+            "count": 2
+        },
+        {
+            "node_type": "license",
+            "label": "free to read",
+            "id": 24707952,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "Q2471941",
+            "id": 2471941,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "Common Public License",
+            "id": 2477807,
+            "count": 2
+        },
+        {
+            "node_type": "license",
+            "label": "Q2481177",
+            "id": 2481177,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "University of Illinois/NCSA Open Source License",
+            "id": 2495855,
+            "count": 3
+        },
+        {
+            "node_type": "license",
+            "label": "as a service",
+            "id": 25036597,
+            "count": 16
+        },
+        {
+            "node_type": "license",
+            "label": "public domain equivalent license",
+            "id": 25047642,
+            "count": 6
+        },
+        {
+            "node_type": "license",
+            "label": "mobility as a service",
+            "id": 25212654,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "OpenLDAP Public License Version 2.8",
+            "id": 25273268,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "Blackfire Profiler",
+            "id": 25312823,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "robot as a service",
+            "id": 25325251,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "Harrow",
+            "id": 25345942,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "function as a Service",
+            "id": 25390073,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "MPL 2.0",
+            "id": 25428413,
+            "count": 2
+        },
+        {
+            "node_type": "license",
+            "label": "yEd",
+            "id": 2598628,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "Python Software Foundation License",
+            "id": 2600299,
+            "count": 2
+        },
+        {
+            "node_type": "license",
+            "label": "BackupHDDVD",
+            "id": 2608399,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "Creative Commons Attribution 2.1 Japan License",
+            "id": 26116436,
+            "count": 2
+        },
+        {
+            "node_type": "license",
+            "label": "Eclipse Distribution License",
+            "id": 26245522,
+            "count": 2
+        },
+        {
+            "node_type": "license",
+            "label": "Creative Commons Attribution Intergovernmental Organizations licence 3.0",
+            "id": 26259495,
+            "count": 2
+        },
+        {
+            "node_type": "license",
+            "label": "Angband licence",
+            "id": 26701938,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "MPL-1.1",
+            "id": 26737735,
+            "count": 3
+        },
+        {
+            "node_type": "license",
+            "label": "MPL-1.0",
+            "id": 26737738,
+            "count": 2
+        },
+        {
+            "node_type": "license",
+            "label": "Italian Open Data License 1.0",
+            "id": 26805816,
+            "count": 2
+        },
+        {
+            "node_type": "license",
+            "label": "Italian Open Data License 2.0",
+            "id": 26805818,
+            "count": 2
+        },
+        {
+            "node_type": "license",
+            "label": "Apache-1.0",
+            "id": 26897902,
+            "count": 2
+        },
+        {
+            "node_type": "license",
+            "label": "eCos-2.0",
+            "id": 26904555,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "Creative Commons Sampling Plus 1.0",
+            "id": 26913038,
+            "count": 2
+        },
+        {
+            "node_type": "license",
+            "label": "GNU Free Documentation License, version 1.1",
+            "id": 26921685,
+            "count": 2
+        },
+        {
+            "node_type": "license",
+            "label": "GFDL-1.2",
+            "id": 26921686,
+            "count": 3
+        },
+        {
+            "node_type": "license",
+            "label": "GFDL-1.3",
+            "id": 26921691,
+            "count": 2
+        },
+        {
+            "node_type": "license",
+            "label": "CDDL-1.1",
+            "id": 26996804,
+            "count": 2
+        },
+        {
+            "node_type": "license",
+            "label": "Common Development and Distribution License version 1.0",
+            "id": 26996811,
+            "count": 4
+        },
+        {
+            "node_type": "license",
+            "label": "GPL-1.0+",
+            "id": 27016750,
+            "count": 3
+        },
+        {
+            "node_type": "license",
+            "label": "GPL-2.0+",
+            "id": 27016752,
+            "count": 5
+        },
+        {
+            "node_type": "license",
+            "label": "GPL v3 or later",
+            "id": 27016754,
+            "count": 4
+        },
+        {
+            "node_type": "license",
+            "label": "LGPL-2.1+",
+            "id": 27016757,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "LGPL-3.0+",
+            "id": 27016762,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "AGPL v1.0 only",
+            "id": 27017230,
+            "count": 2
+        },
+        {
+            "node_type": "license",
+            "label": "GNU AGPL v3.0 only",
+            "id": 27017232,
+            "count": 3
+        },
+        {
+            "node_type": "license",
+            "label": "GFDL 1.3 or later",
+            "id": 27019786,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "GNU AGPL v3.0 or later",
+            "id": 27020062,
+            "count": 3
+        },
+        {
+            "node_type": "license",
+            "label": "Oracle Grid Engine",
+            "id": 2708256,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "EPICS Open License",
+            "id": 27096218,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "non-Copyfree software license",
+            "id": 27529879,
+            "count": 4
+        },
+        {
+            "node_type": "license",
+            "label": "ImageMagick License",
+            "id": 27676327,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "Creative Commons Attribution 2.5 Sweden",
+            "id": 27940776,
+            "count": 2
+        },
+        {
+            "node_type": "license",
+            "label": "Creative Commons Attribution-NonCommercial-ShareAlike 2.0 Generic",
+            "id": 28050835,
+            "count": 4
+        },
+        {
+            "node_type": "license",
+            "label": "Affero General Public License",
+            "id": 28130012,
+            "count": 9
+        },
+        {
+            "node_type": "license",
+            "label": "d20 System",
+            "id": 284471,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "monitoring as a Service",
+            "id": 28458427,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "Creative Commons license",
+            "id": 284742,
+            "count": 59
+        },
+        {
+            "node_type": "license",
+            "label": "Open Web Foundation Agreement, Version 0.9",
+            "id": 28554579,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "R2 Docuo",
+            "id": 28568150,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "IBM Public License",
+            "id": 288745,
+            "count": 2
+        },
+        {
+            "node_type": "license",
+            "label": "Microsoft end-user license agreement",
+            "id": 28914702,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "Apache Usergrid",
+            "id": 28916324,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "Carnegie Mellon University License",
+            "id": 2939745,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "ARIS MashZone",
+            "id": 296677,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "Mailjet SaaS",
+            "id": 29905723,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "Matplotlib license",
+            "id": 30222888,
+            "count": 2
+        },
+        {
+            "node_type": "license",
+            "label": "EW-System",
+            "id": 3046258,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "Common Development and Distribution License",
+            "id": 304628,
+            "count": 5
+        },
+        {
+            "node_type": "license",
+            "label": "Ruby License",
+            "id": 3066722,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "Mozilla Public License",
+            "id": 308915,
+            "count": 6
+        },
+        {
+            "node_type": "license",
+            "label": "Open Definition conformant license",
+            "id": 30939938,
+            "count": 2
+        },
+        {
+            "node_type": "license",
+            "label": "Open Data Commons Attribution License",
+            "id": 30940585,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "Creative Commons Attribution 1.0 Generic",
+            "id": 30942811,
+            "count": 3
+        },
+        {
+            "node_type": "license",
+            "label": "proprietary software license",
+            "id": 31202214,
+            "count": 2
+        },
+        {
+            "node_type": "license",
+            "label": "Honest Public License",
+            "id": 3139999,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "Interbase Public License",
+            "id": 3153096,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "SQLite",
+            "id": 319417,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "Open License",
+            "id": 3238028,
+            "count": 2
+        },
+        {
+            "node_type": "license",
+            "label": "proprietary license",
+            "id": 3238057,
+            "count": 4
+        },
+        {
+            "node_type": "license",
+            "label": "curl license",
+            "id": 33042394,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "Q332155",
+            "id": 332155,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "MIT license",
+            "id": 334661,
+            "count": 3
+        },
+        {
+            "node_type": "license",
+            "label": "Academic Free License",
+            "id": 337279,
+            "count": 2
+        },
+        {
+            "node_type": "license",
+            "label": "Creative Commons Attribution-NonCommercial 4.0 License",
+            "id": 34179348,
+            "count": 2
+        },
+        {
+            "node_type": "license",
+            "label": "security as a service",
+            "id": 3510465,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "Creative Commons Attribution-NoDerivs 2.0 Generic",
+            "id": 35254645,
+            "count": 3
+        },
+        {
+            "node_type": "license",
+            "label": "W3C Software Notice and License",
+            "id": 3564577,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "Wysigot",
+            "id": 3570238,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "Creative Commons Attribution-NoDerivatives 4.0 International",
+            "id": 36795408,
+            "count": 2
+        },
+        {
+            "node_type": "license",
+            "label": "Erlang Public License",
+            "id": 3731857,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "gSOAP Public License",
+            "id": 3756289,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "PHP License",
+            "id": 376841,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "Zope Public License",
+            "id": 3780982,
+            "count": 2
+        },
+        {
+            "node_type": "license",
+            "label": "X.Net, Inc. License",
+            "id": 38346089,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "wxWindows Library License",
+            "id": 38347878,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "Vovida Software License Version 1.0",
+            "id": 38349857,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "Simple Public License",
+            "id": 38351460,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "Attribution Assurance License",
+            "id": 38364310,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "Computer Associates Trusted Open Source License, Version 1.1",
+            "id": 38365570,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "CNRI portion of the multi-part Python License",
+            "id": 38365646,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "CUA Office Public License",
+            "id": 38365770,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "The MITRE Collaborative Virtual Workspace License",
+            "id": 38365796,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "EU DataGrid Software License",
+            "id": 38365944,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "Entessa Public License",
+            "id": 38366115,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "IPA Font License",
+            "id": 38366264,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "Licence Libre du Qu\u00e9bec \u2013 R\u00e9ciprocit\u00e9",
+            "id": 38490890,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "Licence Libre du Qu\u00e9bec \u2013 Permissive",
+            "id": 38493399,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "Licence Libre du Qu\u00e9bec \u2013 R\u00e9ciprocit\u00e9 forte",
+            "id": 38493724,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "Motosoto Open Source License",
+            "id": 38494497,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "Multics License",
+            "id": 38494754,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "Non-Profit Open Software License",
+            "id": 38495282,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "NTP License",
+            "id": 38495487,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "NAUMEN Public License",
+            "id": 38495690,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "Nokia Open Source License",
+            "id": 38495954,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "OCLC Research Public License",
+            "id": 38496210,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "OSET Foundation Public License",
+            "id": 38496558,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "ISC license",
+            "id": 386474,
+            "count": 2
+        },
+        {
+            "node_type": "license",
+            "label": "Universal Permissive License",
+            "id": 38685700,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "Open Group Test Suite License",
+            "id": 38686558,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "AIDA64",
+            "id": 389898,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "Driving licence in Azerbaijan",
+            "id": 39087380,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "free software license",
+            "id": 3943414,
+            "count": 51
+        },
+        {
+            "node_type": "license",
+            "label": "SugarCRM Public License",
+            "id": 3976707,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "volume licensing",
+            "id": 4016359,
+            "count": 2
+        },
+        {
+            "node_type": "license",
+            "label": "XMedia Recode",
+            "id": 4021481,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "NnCron",
+            "id": 4045381,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "Open Directory License",
+            "id": 4045888,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "Punto Switcher",
+            "id": 4047648,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "Driver's license in the United States",
+            "id": 4113957,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "Driving licence in Sweden",
+            "id": 4113958,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "taxi permit",
+            "id": 41229007,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "Q41258135",
+            "id": 41258135,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "Creative Commons Attribution-NonCommercial-NoDerivs 2.5 Portugal",
+            "id": 42172282,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International",
+            "id": 42553662,
+            "count": 2
+        },
+        {
+            "node_type": "license",
+            "label": "Creative Commons Attribution-ShareAlike 3.0 Germany",
+            "id": 42716613,
+            "count": 2
+        },
+        {
+            "node_type": "license",
+            "label": "Vim license",
+            "id": 43338605,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "HubSpot CRM Free",
+            "id": 43399754,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "Open Content License",
+            "id": 4398755,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "Creative Commons Attribution-NonCommercial 2.0 Generic",
+            "id": 44128984,
+            "count": 3
+        },
+        {
+            "node_type": "license",
+            "label": "Creative Commons Attribution 2.0 South Korea",
+            "id": 44282633,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "Creative Commons Attribution-ShareAlike 2.0 South Korea",
+            "id": 44282641,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "Creative Commons Attribution-NonCommercial 1.0 Generic",
+            "id": 44283370,
+            "count": 2
+        },
+        {
+            "node_type": "license",
+            "label": "Q4462386",
+            "id": 4462386,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "a11y.co",
+            "id": 45349003,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "AROS Public License",
+            "id": 4653881,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "Adaptive Public License",
+            "id": 4680711,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "Creative Commons Attribution-ShareAlike 1.0 Generic",
+            "id": 47001652,
+            "count": 3
+        },
+        {
+            "node_type": "license",
+            "label": "Open Government Data License",
+            "id": 47001673,
+            "count": 2
+        },
+        {
+            "node_type": "license",
+            "label": "Creative Commons Attribution-NonCommercial-NoDerivs 1.0 Generic",
+            "id": 47008926,
+            "count": 2
+        },
+        {
+            "node_type": "license",
+            "label": "Creative Commons Attribution-NonCommercial-NoDerivs 2.0 Generic",
+            "id": 47008927,
+            "count": 3
+        },
+        {
+            "node_type": "license",
+            "label": "Creative Commons Attribution-NonCommercial-ShareAlike 1.0 Generic",
+            "id": 47008954,
+            "count": 2
+        },
+        {
+            "node_type": "license",
+            "label": "Creative Commons Attribution-NoDerivs 1.0 Generic",
+            "id": 47008966,
+            "count": 2
+        },
+        {
+            "node_type": "license",
+            "label": "no copyright notice",
+            "id": 47012574,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "Driving license in Taiwan",
+            "id": 4707078,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "CATS Applicant Tracking System",
+            "id": 47155361,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "emulation as a service",
+            "id": 47169086,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "published before 1923",
+            "id": 47246828,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "JasPer License Version 2.0",
+            "id": 47524112,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "Fraunhofer FDK AAC Codec Library for Android license",
+            "id": 47524122,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "No Copyright - Non-Commercial Use Only",
+            "id": 47530884,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "No Copyright - United States",
+            "id": 47530911,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "Free Public License",
+            "id": 48271011,
+            "count": 2
+        },
+        {
+            "node_type": "license",
+            "label": "mobile backend as a service",
+            "id": 4839609,
+            "count": 2
+        },
+        {
+            "node_type": "license",
+            "label": "Se me apareci\u00f3 la muerte",
+            "id": 48463560,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "A las minas del Romero",
+            "id": 48467248,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "La verdulera",
+            "id": 48473637,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "Me tienes consum\u00edo",
+            "id": 48477347,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "Mi hora mala lleg\u00f3",
+            "id": 48479463,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "Upstream Compatibility License",
+            "id": 48795302,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "SEMrush",
+            "id": 48818116,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "BitTorrent Open Source License",
+            "id": 4918693,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "Public Documentation License",
+            "id": 492916,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "Public domain as not covered by copyright law",
+            "id": 50551851,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "Public domain due to expiry of copyright",
+            "id": 50552069,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "GFDL 1.1 or later",
+            "id": 50829096,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "GFDL 1.2 or later",
+            "id": 50829104,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "Chiropractic in Canada",
+            "id": 5101983,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "Code Project Open License",
+            "id": 5140041,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "Copyheart",
+            "id": 5169203,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "data copyright license",
+            "id": 51754273,
+            "count": 5
+        },
+        {
+            "node_type": "license",
+            "label": "Creative Commons jurisdiction port",
+            "id": 5183504,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "Cryptix General License",
+            "id": 5190781,
+            "count": 2
+        },
+        {
+            "node_type": "license",
+            "label": "Bitrix24",
+            "id": 51915662,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "Database of Molecular Motions",
+            "id": 5227408,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "Creative Commons Attribution 3.0 Australia",
+            "id": 52555753,
+            "count": 2
+        },
+        {
+            "node_type": "license",
+            "label": "Digital Commons (Elsevier)",
+            "id": 5275819,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "DollarRevenue",
+            "id": 5289198,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "Dominion Rules Licence",
+            "id": 5291073,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "Driving licence in India",
+            "id": 5308101,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "Driving licence in Hong Kong",
+            "id": 5308102,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "Driving licence in Poland",
+            "id": 5308115,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "Driving licence in Russia",
+            "id": 5308116,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "Driving license in Bangladesh",
+            "id": 5308127,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "driving license in Japan",
+            "id": 5308129,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "Antivir Personal Edition",
+            "id": 53410575,
+            "count": 2
+        },
+        {
+            "node_type": "license",
+            "label": "AntiVir PersonalEdition Classic",
+            "id": 53411361,
+            "count": 3
+        },
+        {
+            "node_type": "license",
+            "label": "Educational Community License",
+            "id": 5341236,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "Avira AntiVir Personal - Free Antivirus",
+            "id": 53679804,
+            "count": 3
+        },
+        {
+            "node_type": "license",
+            "label": "Avira Free AntiVirus",
+            "id": 53679891,
+            "count": 2
+        },
+        {
+            "node_type": "license",
+            "label": "Creative Commons Attribution 3.0 Netherlands",
+            "id": 53859967,
+            "count": 2
+        },
+        {
+            "node_type": "license",
+            "label": "AGPL v2.0",
+            "id": 54365943,
+            "count": 3
+        },
+        {
+            "node_type": "license",
+            "label": "Federal Firearms License",
+            "id": 5440224,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "AGPL v1.0 or later",
+            "id": 54571707,
+            "count": 2
+        },
+        {
+            "node_type": "license",
+            "label": "Flora License",
+            "id": 5460320,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "Frameworx License",
+            "id": 5477987,
+            "count": 2
+        },
+        {
+            "node_type": "license",
+            "label": "Taxi medallion",
+            "id": 55075620,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "GPL font exception",
+            "id": 5514182,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "German Free Software License",
+            "id": 5551105,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "Ventura Image",
+            "id": 55546690,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "Twitter Brand Guidelines",
+            "id": 55603117,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "Eclipse Public License 1.0",
+            "id": 55633170,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "Eclipse Public License 2.0",
+            "id": 55633295,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "WikiAlerts",
+            "id": 55824877,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "GigaMesh",
+            "id": 55896111,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "Data licence Germany - Zero - Version 2.0",
+            "id": 56064789,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "Creative Commons Attribution-ShareAlike 3.0 IGO",
+            "id": 56292840,
+            "count": 2
+        },
+        {
+            "node_type": "license",
+            "label": "Creative Commons Attribution-NonCommercial-NoDerivs 2.0 UK: England & Wales",
+            "id": 56299316,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "Hacktivismo Enhanced-Source Software License Agreement",
+            "id": 5637395,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "Open Government Licence - Canada",
+            "id": 56419952,
+            "count": 2
+        },
+        {
+            "node_type": "license",
+            "label": "Driving license in Indonesia",
+            "id": 56641310,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "Historical Permission Notice and Disclaimer",
+            "id": 5773924,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "Q57826961",
+            "id": 57826961,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "permis bateau plaisance",
+            "id": 57826980,
+            "count": 3
+        },
+        {
+            "node_type": "license",
+            "label": "Python License",
+            "id": 5975028,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "free software copyleft license",
+            "id": 5975031,
+            "count": 11
+        },
+        {
+            "node_type": "license",
+            "label": "Intel Open Source License",
+            "id": 6043507,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "Dokeos",
+            "id": 613680,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "Java Research License",
+            "id": 6165015,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "Apache License",
+            "id": 616526,
+            "count": 5
+        },
+        {
+            "node_type": "license",
+            "label": "Apple Public Source License",
+            "id": 621330,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "Open Audio License",
+            "id": 627693,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "Sun Industry Standards Source License",
+            "id": 635577,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "International Certificate of Competence",
+            "id": 640735,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "Sun Public License",
+            "id": 648252,
+            "count": 2
+        },
+        {
+            "node_type": "license",
+            "label": "Libpng License",
+            "id": 6542418,
+            "count": 2
+        },
+        {
+            "node_type": "license",
+            "label": "licence to crenellate",
+            "id": 6543023,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "Lucent Public License",
+            "id": 6696468,
+            "count": 2
+        },
+        {
+            "node_type": "license",
+            "label": "MODFLOW",
+            "id": 6716996,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "managed video as a service",
+            "id": 6720214,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "Creative Commons Attribution",
+            "id": 6905323,
+            "count": 3
+        },
+        {
+            "node_type": "license",
+            "label": "Creative Commons Attribution-ShareAlike",
+            "id": 6905942,
+            "count": 4
+        },
+        {
+            "node_type": "license",
+            "label": "Motor Vehicle Driving License",
+            "id": 6918172,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "Creative Commons Attribution-NonCommercial",
+            "id": 6936496,
+            "count": 2
+        },
+        {
+            "node_type": "license",
+            "label": "Creative Commons Attribution-NonCommercial-NoDerivatives",
+            "id": 6937225,
+            "count": 3
+        },
+        {
+            "node_type": "license",
+            "label": "CC0",
+            "id": 6938433,
+            "count": 3
+        },
+        {
+            "node_type": "license",
+            "label": "My Lagan Love",
+            "id": 6945800,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "NASA Open Source Agreement",
+            "id": 6952418,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "Creative Commons Attribution\u2013NonCommercial-ShareAlike",
+            "id": 6998997,
+            "count": 3
+        },
+        {
+            "node_type": "license",
+            "label": "Creative Commons Attribution-NoDerivatives",
+            "id": 6999319,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "network as a service",
+            "id": 7000957,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "Open Hardware License",
+            "id": 7096068,
+            "count": 4
+        },
+        {
+            "node_type": "license",
+            "label": "Artistic License",
+            "id": 713244,
+            "count": 3
+        },
+        {
+            "node_type": "license",
+            "label": "payments as a service",
+            "id": 7156793,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "Pratique",
+            "id": 7238710,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "Creative Commons Public Domain Mark",
+            "id": 7257361,
+            "count": 2
+        },
+        {
+            "node_type": "license",
+            "label": "Public License",
+            "id": 7257461,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "public copyright license",
+            "id": 7257715,
+            "count": 13
+        },
+        {
+            "node_type": "license",
+            "label": "public domain music",
+            "id": 7257727,
+            "count": 7
+        },
+        {
+            "node_type": "license",
+            "label": "end-user license agreement",
+            "id": 725920,
+            "count": 2
+        },
+        {
+            "node_type": "license",
+            "label": "RealNetworks Public Source License",
+            "id": 7300815,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "Reciprocal Public License",
+            "id": 7302458,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "Ricoh Source Code Public License",
+            "id": 7332330,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "SLUC",
+            "id": 7391010,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "Simputer General Public License",
+            "id": 7521185,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "Sun Community Source License",
+            "id": 7638252,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "Sybase Open Watcom Public License",
+            "id": 7659488,
+            "count": 2
+        },
+        {
+            "node_type": "license",
+            "label": "Open Software License",
+            "id": 777520,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "UserVoice",
+            "id": 7901822,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "license",
+            "id": 79719,
+            "count": 37
+        },
+        {
+            "node_type": "license",
+            "label": "Wikifonia",
+            "id": 7999853,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "WinBUGS",
+            "id": 8023586,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "WiseStamp",
+            "id": 8027433,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "XCore Open Source License",
+            "id": 8041726,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "Zuora",
+            "id": 8075320,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "Disabled parking permit",
+            "id": 814499,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "Copyright status of work by the U.S. government",
+            "id": 905768,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "Gadami",
+            "id": 9265239,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "Aladdin Free Public License",
+            "id": 979794,
+            "count": 1
+        },
+        {
+            "node_type": "license",
+            "label": "Beerware",
+            "id": 10249,
+            "count": 2
+        },
+        {
+            "node_type": "license",
+            "label": "donationware",
+            "id": 10267,
+            "count": 2
+        },
+        {
+            "node_type": "license",
+            "label": "public domain",
+            "id": 19652,
+            "count": 12
+        },
+        {
+            "node_type": "license",
+            "label": "GNU Free Documentation License",
+            "id": 22169,
+            "count": 8
+        },
+        {
+            "node_type": "license",
+            "label": "GNU General Public License",
+            "id": 7603,
+            "count": 11
+        }
+    ]
+}

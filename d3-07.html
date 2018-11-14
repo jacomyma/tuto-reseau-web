@@ -1,0 +1,137 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>Test</title>
+
+	<!-- Charger d3.js -->
+	<script type="text/javascript" src="assets/d3.min.js"></script>
+
+</head>
+<body>
+	<script type="text/javascript">
+
+	// Vous référer au tutorial d3 en francais :
+	// http://kaisersly.github.io/scottmurray-d3-fr/
+
+	// Sur les réseaux, cet exemple en anglais :
+	// https://beta.observablehq.com/@mbostock/d3-force-directed-graph
+
+	// 7. Continuer à mettre en forme le graph (cercle proportionnels, utilisation de l'espace de la fenetre)
+	// et commencer à jouer avec les forces (éviter les collisions entre les noeuds)
+
+	d3.json("data/licenses_wikidata.json").then(function(data) {
+		var edges = data.links;
+		var nodes = data.nodes;
+
+		var width = 800
+		var height = 600
+
+		var size_node = new PropSizer(30, 30);
+		var svg = d3.select("body")
+			.append("svg")
+			.attr('width', width)
+			.attr('height', height)
+			.attr("viewBox", [0, 0, width, height]);
+
+		var edge = svg.append("g")
+			.attr("stroke", "#999")
+			.attr("stroke-opacity", 0.6)
+			.selectAll("line")
+			.data(edges)
+			.enter().append("line")
+			.attr("stroke-width", 1);
+
+		var node = svg.append("g")
+			.attr("stroke", "#fff")
+			.attr("stroke-width", 1.5)
+			.selectAll("circle")
+			.data(nodes)
+			.enter()
+			.append("circle")
+			.attr("r", d => d.radius = size_node(d.count))
+			.attr("fill", "#999") /// On va prévoir une interaction pour quand l'utilisateur passe son curseur au dessus des noeuds:
+			.on('mouseover', (d) => {
+				d3.select(`#txt_${d.id}`).style('display', null);
+			})
+			.on('mouseout', (d) => {
+				d3.select(`#txt_${d.id}`).style('display', 'none');
+			}) // On va également ajouter la possibilité de déplacer les noeuds :
+			.call(d3.drag()
+			.on("start", dragstarted)
+			.on("drag", dragged)
+			.on("end", dragended));
+
+		// On ajoute un groupe qui va contenir les différents labels
+		// (cachés par défaut)
+		var labels = svg.append('g')
+			.attr('class', 'labels')
+			.selectAll("text")
+			.data(nodes)
+			.enter()
+			.append("text")
+			.attr('id', d => `txt_${d.id}`)
+			.attr('font-size', '12px')
+			.attr('text-anchor', 'middle')
+			.style('pointer-events', 'none')
+			.style('display', 'none')
+			.text(d => d.label);
+
+		var simulation = forceSimulation(nodes, edges).on("tick", ticked);
+
+		function ticked() {
+			edge
+				.attr("x1", d => d.source.x)
+				.attr("y1", d => d.source.y)
+				.attr("x2", d => d.target.x)
+				.attr("y2", d => d.target.y);
+
+			node
+				.attr("cx", d => d.x)
+				.attr("cy", d => d.y);
+
+			labels
+				.attr('x', d => d.x)
+				.attr('y', d => d.y);
+		}
+
+		// Fonctions nécessaires au déplacement des noeuds par la souris
+		function dragstarted(d) {
+			if (!d3.event.active) simulation.alphaTarget(0.8).restart();
+			d.fx = d.x;
+			d.fy = d.y;
+		}
+
+		function dragged(d) {
+			d.fx = d3.event.x;
+			d.fy = d3.event.y;
+		}
+
+		function dragended(d) {
+			if (!d3.event.active) simulation.alphaTarget(0);
+			d.fx = null;
+			d.fy = null;
+		}
+		//
+		// Fonction utilisée pour rendre les symboles proportionnels:
+		function PropSizer(fixed_value, fixed_size) {
+			this.fixed_value = fixed_value;
+			this.smax = fixed_size * fixed_size * Math.PI;
+			return (val) => Math.sqrt(val * this.smax / this.fixed_value) / Math.PI;
+		}
+
+		function forceSimulation(nodes, edges) {
+			return d3.forceSimulation(nodes)
+				.force("link", d3.forceLink(edges).id(d => d.id))
+				.force("charge", d3.forceManyBody().strength(-15))
+				.force("collide", d3.forceCollide().radius(d => d.radius * 1.1))
+				// .force("center", d3.forceCenter())
+				.force("x", d3.forceX(width / 2))
+				.force("y", d3.forceY(height / 2));
+		}
+	});
+
+	</script>
+</body>
+</html>
